@@ -8,6 +8,8 @@
 	const testmessage = "first";
 	const testpfp = "https://codehs.com/uploads/5a274a7c54a1f1d318bf4ed019469f6a";
 
+	let temp = 0;
+
 	import Message from './Message.svelte'
 	import ServerHex from './ServerHex.svelte'
 	import MessageBar from "./MessageBar/MessageBar.svelte";
