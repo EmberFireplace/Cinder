@@ -1,0 +1,41 @@
+<script>
+    import {updateChannel} from "../Server/Channel/ChannelQuery";
+
+    let value = "";
+    let channelID = "317456344597659716";
+    let userID = "317456344595562564";
+    import {varUserID} from "../Server/Server";
+    varUserID.subscribe(value1 => userID = value1);
+    export let temp = 0;
+    import {createMessageFunction} from "../MessageQuery";
+
+    import {selectedChannelID} from "../Server/Server";
+
+    selectedChannelID.subscribe(value => channelID = value);
+
+    function handleKeydown(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault();
+            temp++;
+            if(value != 0) {
+                createMessageFunction(value, channelID, userID);
+                updateChannel(channelID);
+            }
+        }
+    }
+</script>
+
+<span contenteditable="true">
+    <textarea class="myTextArea" on:keydown={handleKeydown} bind:value={value}></textarea>
+</span>
+
+<style>
+    .myTextArea{
+        resize: none;
+        width: 100%;
+        height: 5em;
+        border-radius: 1em;
+        -webkit-border-radius: 1em;
+        -moz-border-radius: 1em;
+    }
+</style>
