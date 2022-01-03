@@ -3,7 +3,11 @@
     import MessageBarTextArea from "./MessageBarTextArea.svelte";
 </script>
 
-<div>
+<head>
+    <link rel="stylesheet" href="src/cinder-brand-styles.css">
+</head>
+
+<div class="dark-mode-background">
     <MessageBarTextArea>
     </MessageBarTextArea>
 </div>

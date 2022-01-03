@@ -25,8 +25,11 @@
     }
 </script>
 
-<span contenteditable="true">
-    <textarea class="myTextArea" on:keydown={handleKeydown} bind:value={value}></textarea>
+<head>
+    <link rel="stylesheet" href="src/cinder-brand-styles.css">
+</head>
+<span contenteditable="true" >
+    <textarea class="myTextArea dark-mode-text brand-background-color-medium-2" on:keydown={handleKeydown} bind:value={value}></textarea>
 </span>
 
 <style>
