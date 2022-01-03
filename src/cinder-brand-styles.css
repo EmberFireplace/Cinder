@@ -1,0 +1,76 @@
+.dark-mode-text{
+    color: #eddfe1; !important;
+}
+.dark-mode-background{
+    background-color: #2a1e18 ;
+}
+body{
+    background-color: #2a1e18;
+}
+.brand-color-dark{
+    color: #2a1e18;
+}
+.brand-color-dark-1{
+    color: #3c312c;
+}
+.brand-color-medium-2{
+    color: #5e514f;
+}
+.brand-color-medium{
+    color: #978e8f;
+}
+.brand-color-medium-1{
+    color: #786c6c;
+}
+.brand-color-brown{
+    color:#af5f5c;
+}
+.brand-color-brown-1{
+    color:#723e38;
+}
+.brand-color-brown-2{
+    color:#cd7276;
+}
+.brand-color-light{
+    color:#e7d292;
+}
+.brand-color-light-1{
+    color:#eddfe1;
+}
+.brand-color-light-2{
+    color:#e9b77f;
+}
+
+.brand-background-color-dark{
+    background-color: #2a1e18;
+}
+.brand-background-color-dark-1{
+    background-color: #3c312c;
+}
+.brand-background-color-medium-2{
+    background-color: #5e514f;
+}
+.brand-background-color-medium{
+    background-color: #978e8f;
+}
+.brand-background-color-medium-1{
+    background-color: #786c6c;
+}
+.brand-background-color-brown{
+    background-color:#af5f5c;
+}
+.brand-background-color-brown-1{
+    background-color:#723e38;
+}
+.brand-background-color-brown-2{
+    background-color:#cd7276;
+}
+.brand-background-color-light{
+    background-color:#e7d292;
+}
+.brand-background-color-light-1{
+    background-color:#eddfe1;
+}
+.brand-background-color-light-2{
+    background-color:#e9b77f;
+}
