@@ -6,7 +6,7 @@
     import {onMount, tick} from 'svelte';
     import {selectedChannelID} from "../Server";
     import MessageBar from "../../MessageBar/MessageBar.svelte";
-    //import {chatRoomStream} from "../fauna";
+    import {chatRoomStream} from "../fauna";
     let channelID = "317456344597659716";
     let tempReactivityChecker = 0;
     let items = [];
@@ -20,11 +20,12 @@
     let channelJSON;
     let mostRecentKnownMessage = null;
 
-    //chatRoomStream.onUpdate.add(updateMessages);
+    chatRoomStream.onUpdate.add(updateMessages);
 
     async function updateMessages() {
         let updateCursor = "beginning";
         console.log("updated messages");
+
     }
 
     selectedChannelID.subscribe(value => {
