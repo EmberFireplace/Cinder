@@ -10,6 +10,9 @@ export async function getChannelName(id) {
 }
 
 export async function getMessagesInChannel(channelID, size, cursor) {
+    if(channelID === "0" || channelID === 0) {
+        return new Promise(function (resolve, reject) {});
+    }
     let jsonQueryWithCursor = {
         "query": "query getMessagesFromChannel($arg1: ID! $arg2: Int! $arg3: String!) { getMessagesInChannel(channel: $arg1 _size: $arg2 _cursor: $arg3) { data { _id } before after } }",
         "operationName": "getMessagesFromChannel",

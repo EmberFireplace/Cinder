@@ -30,18 +30,18 @@ export async function doPost (queryJson) {
  * @returns {boolean} - a boolean if it is a valid query or not.
  */
 function isValidGraphqlQuery(queryJson) {
-    if(!"query" in queryJson) {
-        console.error("missing 'query' field in doPost function in Query.js");
-        return false;
-    }
-    if(!"operationName" in queryJson) {
-        console.error("missing 'operationName' field in doPost function in Query.js");
-        return false;
-    }
-    if(!"variables" in queryJson) {
-        console.error("missing 'variables' field in doPost function in Query.js");
-        return false;
-    }
+    // if(!"query" in queryJson) {
+    //     console.error("missing 'query' field in doPost function in Query.js");
+    //     return false;
+    // }
+    // if(!"operationName" in queryJson) {
+    //     console.error("missing 'operationName' field in doPost function in Query.js");
+    //     return false;
+    // }
+    // if(!"variables" in queryJson) {
+    //     console.error("missing 'variables' field in doPost function in Query.js");
+    //     return false;
+    // }
     //TODO figure out how to test if the variables are all declared, if the operation name matches, etc.
 
 

@@ -1,8 +1,8 @@
 <script>
     import {updateChannel} from "../Server/Channel/ChannelQuery";
 
-    let value = "";
-    let channelID = "317456344597659716";
+    let value = "0";
+    let channelID = "0";
     let userID = "317456344595562564";
     import {varUserID} from "../Server/Server";
     varUserID.subscribe(value1 => userID = value1);
@@ -17,7 +17,7 @@
         if (event.key === 'Enter') {
             event.preventDefault();
             temp++;
-            if(value != 0) {
+            if(value !== "0" && channelID !== "0" && userID !== "0") {
                 createMessageFunction(value, channelID, userID);
                 updateChannel(channelID);
             }
