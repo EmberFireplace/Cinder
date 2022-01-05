@@ -7,7 +7,7 @@
     import {selectedChannelID} from "../Server";
     import MessageBar from "../../MessageBar/MessageBar.svelte";
     import {chatRoomStream} from "../fauna";
-    let channelID = "317456344597659716";
+    let channelID = "319380215416488007";
     let tempReactivityChecker = 0;
     let items = [];
     let loading = false;
@@ -19,13 +19,32 @@
     let tempCursor = null;
     let channelJSON;
     let mostRecentKnownMessage = null;
+    let bottomCursor = null;
 
     chatRoomStream.onUpdate.add(updateMessages);
 
     async function updateMessages() {
-        let updateCursor = "beginning";
+        bottomCursor = null;
         console.log("updated messages");
+        mostRecentKnownMessage = items[0]._id;
+        let newlyReadMessage = null;
+        while(newlyReadMessage === null || newlyReadMessage._id !== mostRecentKnownMessage) {
+            newlyReadMessage = await getMessagesInChannelHelper(1);
+            console.log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"  + JSON.stringify(newlyReadMessage));
+            items = [...items, newlyReadMessage];
+            //items.push(newlyReadMessage);
+        }
+        items = items;
 
+    }
+
+    async function getMessagesInChannelHelper(numberOfMessages) {
+        let myChannelJSON = getMessagesInChannel(channelID, numberOfMessages, bottomCursor);
+
+        let finishedJson = await myChannelJSON;
+        console.log("finished json is : " + JSON.stringify(finishedJson.data.getMessagesInChannel.data));
+        bottomCursor = JSON.stringify(finishedJson.data.getMessagesInChannel.after).replace(/\"/g, "");
+        return finishedJson.data.getMessagesInChannel.data[0];
     }
 
     selectedChannelID.subscribe(value => {
