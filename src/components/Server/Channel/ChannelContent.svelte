@@ -6,8 +6,9 @@
     import {onMount, tick} from 'svelte';
     import {selectedChannelID} from "../Server";
     import MessageBar from "../../MessageBar/MessageBar.svelte";
-    //import {chatRoomStream} from "../fauna";
-    let channelID = "317456344597659716";
+    import {chatRoomStream} from "../fauna";
+    import {readMessageFunction} from "../../MessageQuery.js";
+    let channelID = "0";
     let tempReactivityChecker = 0;
     let items = [];
     let loading = false;
@@ -19,16 +20,52 @@
     let tempCursor = null;
     let channelJSON;
     let mostRecentKnownMessage = null;
+    let bottomCursor = null;
 
-    //chatRoomStream.onUpdate.add(updateMessages);
+    chatRoomStream.onUpdate.add(updateMessages);
+
+    function isInvalidChannelID() {
+        return (channelID === "0" || channelID === 0);
+    }
 
     async function updateMessages() {
-        let updateCursor = "beginning";
-        console.log("updated messages");
+        if(isInvalidChannelID()) {
+            console.log("is invalid");
+            return;
+        }
+        bottomCursor = null;
+        console.log("updated messages\n\n\n");
+        console.log("again channel id is : " + channelID + ", and the type is : " + typeof(channelID));
+        console.log("the most recentKnownMessage is : " + items[items.length-1]);
+        readMessageFunction(items[items.length-1]._id).then(value => {console.log("mostRecentKnownMessage is : " + JSON.stringify(value.data.findMessageByID.message).replace(/\"/g, ""));});
+        mostRecentKnownMessage = items[items.length-1]._id;
+        let newlyReadMessage = null;
+        while(true) {
+            newlyReadMessage = await getMessagesInChannelHelper(1);
+            console.log("the id is : "  + newlyReadMessage._id);
+            readMessageFunction(newlyReadMessage._id).then(value => {console.log(JSON.stringify(value.data.findMessageByID.message).replace(/\"/g, ""));});
+            if(newlyReadMessage._id === mostRecentKnownMessage) {
+                return;
+            }
+            items = [...items, newlyReadMessage];
+            //items.push(newlyReadMessage);
+        }
+
+    }
+
+    async function getMessagesInChannelHelper(numberOfMessages) {
+        let myChannelJSON = getMessagesInChannel(channelID, numberOfMessages, bottomCursor);
+
+        let finishedJson = await myChannelJSON;
+        bottomCursor = JSON.stringify(finishedJson.data.getMessagesInChannel.after).replace(/\"/g, "");
+        return finishedJson.data.getMessagesInChannel.data[0];
     }
 
     selectedChannelID.subscribe(value => {
         channelID = value;
+        if(isInvalidChannelID()) {
+            return;
+        }
         channelJSON = getMessagesInChannel(channelID, 12, null);
         channelJSON.then(value => {
             console.log("value is : " + JSON.stringify(value));
@@ -40,6 +77,9 @@
     })
     $: {if(valueChecker != valueTemp) {valueChecker = valueTemp;}}
     async function CursorFunction(channelJSON) {
+        if(isInvalidChannelID()) {
+            return;
+        }
         console.log("running cursor functions")
         cursor = tempCursor;
         channelJSON = getMessagesInChannel(channelID, 3, cursor);
