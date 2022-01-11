@@ -8,6 +8,7 @@
     export let userID = "318895910306185289";
     export let testDate = "12/13/21 at 5:04:30";
     let userJSON = readMessageFunction(userID);
+
     $: if(userID != 0) {
         userJSON.then(value => {
             testmessage = JSON.stringify(value.data.findMessageByID.message).replace(/\"/g, "");
