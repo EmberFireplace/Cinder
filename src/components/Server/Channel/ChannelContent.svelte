@@ -120,6 +120,7 @@
 <style>
     .vs {
         height: 100%;
+        max-height: 1000px;
         width: 100%;
     }
 </style>
