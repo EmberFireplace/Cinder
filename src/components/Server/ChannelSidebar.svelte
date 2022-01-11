@@ -54,17 +54,17 @@
 <style>
     section {
         width: 100%;
-        padding: 0.3em;
-        border: 1px solid black;
+        /*padding: 0.3em;*/
+        /*border: 1px solid black;*/
         /* this will allow the dragged element to scroll the list */
-        overflow: scroll;
+        /*overflow: scroll;*/
         height: 100%;
     }
     div {
         width: 100%;
-        padding: 0.2em;
-        border: 1px solid blue;
-        margin: 0.15em 0;
+        /*padding: 0.2em;*/
+        /*border: 1px solid blue;*/
+        /*margin: 0.15em 0;*/
         font-size: larger;
     }
 </style>

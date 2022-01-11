@@ -7,11 +7,13 @@ import MessageBar from "../MessageBar/MessageBar.svelte";
 
 </script>
 
-<div class="flex-parent">
-    <div class="ss"><ServerSidebar/></div>
-    <div class="cs"><ChannelSidebar/></div>
-    <div class="cc"><ChannelContent/></div>
-    <div class="mb"><MessageBar/></div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3"><ServerSidebar/></div>
+        <div class="col-sm-1"><ChannelSidebar/></div>
+        <span class="col-sm-8"><ChannelContent/><MessageBar/></span>
+    </div>
+
 </div>
 
 <style>

@@ -2,6 +2,17 @@
     import {tick} from "svelte";
     import {getServerIconURLFromID} from "./ServerQuery";
     import {selectedServerID} from "./Server";
+    import { watchResize } from "svelte-watch-resize";
+
+
+
+    function handleLeftResize(node) {
+        q5();
+    }
+
+    function handleMainResize(node) {
+        q5();
+    }
 
     let q1 = document.getElementsByTagName("svg");
     let q2 = 0;
@@ -103,8 +114,9 @@
 <!--        <div> hi </div>-->
 <!--    {/if}-->
 <!--</div> OLD CODE, IGNORE HOPEFULLY-->
-<div class="col-sm-1"><!--lmao idk-->
-<svg class="img-circular" id="image-fill" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 {q6} {q6}" xmlns:xlink="http://www.w3.org/1999/xlink" on:click={handleKeyDown} on:load="{q5()}">
+<!--lmao idk-->
+<div class="container-fluid">
+<svg class="img-circular" id="image-fill" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 {q6} {q6}" xmlns:xlink="http://www.w3.org/1999/xlink" on:click={handleKeyDown} on:load="{q5()}" use:watchResize={handleMainResize}>
 
     <defs>
         <pattern id="{serverID}" x="0" y="0" height="100%" width="100%" patternUnits="userSpaceOnUse">
@@ -116,6 +128,7 @@
 
 </svg>
 </div>
+
 <style>
     .img-circular{
 
