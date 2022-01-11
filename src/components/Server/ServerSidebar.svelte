@@ -47,34 +47,50 @@
     }
 </script>
 
-<div class="container-div">
-<p>
-    {currentServerID}
-</p>
-<section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">
-    {#each items as item(item.id)}
-        <div animate:flip="{{duration: flipDurationMs}}" class="div-class">
-            <CircularServer bind:showServer={item.showServer} serverID={item.id}/>
-        </div>
-    {/each}
-<!--    <CreateServerIcon></CreateServerIcon>-->
-</section>
+<div class="container-div container-fluid">
+
+    <p>
+        {currentServerID}
+    </p>
+
+
+            <section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">
+                {#each items as item(item.id)}
+                    <div animate:flip="{{duration: flipDurationMs}}" class="div-class">
+                        <CircularServer bind:showServer={item.showServer} serverID={item.id}/>
+                    </div>
+                {/each}
+                <!--    <CreateServerIcon></CreateServerIcon>-->
+            </section>
+
+
+<!--    <p>-->
+<!--        {currentServerID}-->
+<!--    </p>-->
+<!--    <section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">-->
+<!--        {#each items as item(item.id)}-->
+<!--            <div animate:flip="{{duration: flipDurationMs}}" class="div-class">-->
+<!--                <CircularServer bind:showServer={item.showServer} serverID={item.id}/>-->
+<!--            </div>-->
+<!--        {/each}-->
+<!--    &lt;!&ndash;    <CreateServerIcon></CreateServerIcon>&ndash;&gt;-->
+<!--    </section>-->
 </div>
 <style>
     section {
-        width: 240px;
-        padding: 0.3em;
-        border: 1px solid black;
+        /*width: 240px;*/
+        /*padding: 0.3em;*/
+        /*border: 1px solid black;*/
         /* this will allow the dragged element to scroll the list */
-        overflow: scroll;
+        /*overflow: scroll;*/
         height: 100%;
     }
-    .div-class {
-        padding: 0.5em;
-        margin: 0.25em 0;
-        height: 25%;
-    }
-    .container-div {
-        width: 100%;
-    }
+    /*.div-class {*/
+    /*    padding: 0.5em;*/
+    /*    margin: 0.25em 0;*/
+    /*    height: 25%;*/
+    /*}*/
+    /*.container-div {*/
+    /*    width: 100%;*/
+    /*}*/
 </style>

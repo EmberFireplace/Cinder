@@ -32,6 +32,7 @@
     "faunadb": "^4.4.1",
     "mini-signals": "^1.2.0",
     "svelte-dnd-action": "^0.9.14",
-    "svelte-virtual-scroll-list": "^1.0.8"
+    "svelte-virtual-scroll-list": "^1.0.8",
+    "svelte-watch-resize": "^1.0.3"
   }
 }
