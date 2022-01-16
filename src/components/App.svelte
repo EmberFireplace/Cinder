@@ -21,6 +21,7 @@
 	import CustomMenu from "./RightclickMenu/CustomMenu.svelte";
 	import ServerSidebar from "./Server/ServerSidebar.svelte";
 	import ServerParent from "./Server/ServerParent.svelte";
+	import ServerCreationParent from "./ServerCreation/ServerCreationParent.svelte";
 
 
 </script>
@@ -30,7 +31,8 @@
 </head>
 <main>
 	<div class="container">
-	<ServerParent></ServerParent>
+<!--		<ServerParent/>-->
+		<ServerCreationParent/>
 	</div>
 
 </main>
