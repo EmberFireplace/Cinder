@@ -3,13 +3,14 @@
     import MenuOption from './MenuOption.svelte';
     import MenuDivider from './MenuDivider.svelte';
     import { tick } from 'svelte'
+    import {getContext, setContext} from 'svelte';
 
     import Icon from './Icon.svelte'
 
     let pos = { x: 0, y: 0 };
     let showMenu = false;
+    export async function onRightClick(e) {
 
-    async function onRightClick(e) {
         if (showMenu) {
             showMenu = false;
             await new Promise(res => setTimeout(res, 100));
@@ -44,4 +45,4 @@
     </Menu>
 {/if}
 
-<svelte:body on:contextmenu|preventDefault={onRightClick} />
+<!--<svelte:body on:contextmenu|preventDefault={onRightClick} />-->

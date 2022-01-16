@@ -1,6 +1,6 @@
 <script>
 	import ServerScrolling from "./ServerScrolling.svelte";
-
+	import ChannelSidebarMenu from "./RightclickMenu/ChannelSidebarMenu.svelte";
 	export let name;
 
 
@@ -18,7 +18,7 @@
 	import Channel from './Server/Channel/Channel.svelte';
 	import ChannelSidebar from "./Server/ChannelSidebar.svelte";
 	import ChannelContent from "./Server/Channel/ChannelContent.svelte";
-	import CustomMenu from "./RightclickMenu/CustomMenu.svelte";
+	import CustomMenu from "./RightclickMenu/ChannelSidebarMenu.svelte";
 	import ServerSidebar from "./Server/ServerSidebar.svelte";
 	import ServerParent from "./Server/ServerParent.svelte";
 	import ServerCreationParent from "./ServerCreation/ServerCreationParent.svelte";
@@ -32,6 +32,7 @@
 <main>
 	<div class="container">
 		<ServerParent/>
+
 <!--		<ServerCreationParent/>-->
 	</div>
 

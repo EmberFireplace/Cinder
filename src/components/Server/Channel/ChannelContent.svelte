@@ -82,7 +82,7 @@
         }
         console.log("running cursor functions")
         cursor = tempCursor;
-        channelJSON = getMessagesInChannel(channelID, 3, cursor);
+        channelJSON = getMessagesInChannel(channelID, 12, cursor);
         console.log("current cursor is : " + cursor);
         ///channelJSON.then(value => items = [...items, ...value.data.getMessagesInChannel.data]);
         channelJSON.then(value => {
@@ -90,7 +90,7 @@
             items = [...value.data.getMessagesInChannel.data, ...items]
             tempCursor = JSON.stringify(value.data.getMessagesInChannel.after).replace(/\"/g, "")
         })
-        list.scrollToOffset(20);
+        list.scrollToOffset(50);
     }
     // CursorFunction(channelJSON);
     onMount(async () => {
@@ -120,7 +120,7 @@
 <style>
     .vs {
         height: 100%;
-        max-height: 1000px;
+        max-height: 85vh;
         width: 100%;
     }
 </style>

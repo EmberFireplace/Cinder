@@ -5,6 +5,10 @@
     import {tick} from "svelte";
     import {selectedChannelID} from "./Server";
     import {selectedServerID} from "./Server";
+    import {getContext} from 'svelte';
+    import ChannelSidebarMenu from "../RightclickMenu/ChannelSidebarMenu.svelte";
+    let referenceVar;
+
 
     export let serverID = null;
     let items = [];
@@ -54,11 +58,13 @@
 <style>
     section {
         width: 100%;
+        background-color: #5e514f;
         /*padding: 0.3em;*/
         /*border: 1px solid black;*/
         /* this will allow the dragged element to scroll the list */
         /*overflow: scroll;*/
         height: 100%;
+        min-height: 80vh;
     }
     div {
         width: 100%;
@@ -68,8 +74,12 @@
         font-size: larger;
     }
 </style>
+
+<ChannelSidebarMenu bind:this={referenceVar}/>
+<div on:contextmenu|preventDefault={(e) => referenceVar.onRightClick(e)}>
 <section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">
     {#each items as item(item.id)}
         <div animate:flip="{{duration: flipDurationMs}}" on:click={handleClick(item.id)}>{item.name}</div>
     {/each}
 </section>
+</div>
