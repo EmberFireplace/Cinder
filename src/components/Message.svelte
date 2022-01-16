@@ -1,6 +1,19 @@
 
 <script>
     import {readMessageFunction} from "./MessageQuery";
+    import SimpleMarkdown from 'simple-markdown';
+
+    let mdParse = SimpleMarkdown.defaultBlockParse;
+    let mdOutput = SimpleMarkdown.defaultHtmlOutput;
+    //
+    // let customRule = {
+    //     order: SimpleMarkdown.defaultRules.em.order - 0.5,
+    //
+    //     match: function(source) {
+    //         return /^(.*):(.*):/.exec(source);
+    //     }
+    // }
+
 
     export let testuser = "gamma_02";
     export let testmessage = "first";
@@ -11,7 +24,7 @@
 
     $: if(userID != 0) {
         userJSON.then(value => {
-            testmessage = JSON.stringify(value.data.findMessageByID.message).replace(/\"/g, "");
+            testmessage = `${mdOutput(mdParse(JSON.stringify(value.data.findMessageByID.message).replace(/\"/g, "")))}`;
             testuser = JSON.stringify(value.data.findMessageByID.user.username).replace(/\"/g, "");
         })
     }
@@ -58,9 +71,9 @@
 
             <span class="username"><b>{testuser}</b></span><span
                 class="date+time"><sup>{testDate}</sup></span>
-            <p>{testmessage}
-            </p>
+            {@html testmessage}
         </div>
+
 
 
     </div>

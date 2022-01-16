@@ -31,8 +31,8 @@
 </head>
 <main>
 	<div class="container">
-<!--		<ServerParent/>-->
-		<ServerCreationParent/>
+		<ServerParent/>
+<!--		<ServerCreationParent/>-->
 	</div>
 
 </main>
