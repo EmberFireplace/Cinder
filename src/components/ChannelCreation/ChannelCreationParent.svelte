@@ -3,7 +3,14 @@
     import ChannelNameBar from "./ChannelNameBar.svelte";
     import {showChannelCreationPage} from "../main-store.js";
     import clickOutside from 'svelte-outside-click';
+    import {createChannelMutation} from "./ChannelCreationQuery.ts";
+    import {selectedServerID} from "../Server/Server.js";
     let switcher = false;
+    let channelName;
+    let serverID;
+    selectedServerID.subscribe((value) => serverID = value);
+    let showCreateChannelPage = false;
+    showChannelCreationPage.subscribe((value) => showCreateChannelPage = value);
     function clickOutsideFunc() {
           switcher = !switcher;
           if(!switcher) {
@@ -12,15 +19,17 @@
     }
     function onButtonClick() {
           showChannelCreationPage.set(false);
+          createChannelMutation(channelName, serverID);
     }
 </script>
-
+<div></div>
+{#if showCreateChannelPage}
 <div class="center" use:clickOutside={clickOutsideFunc}>
       <p>Create A Text Channel</p>
-      <ChannelNameBar/>
+      <ChannelNameBar bind:value={channelName}/>
       <button on:click={onButtonClick}></button>
 </div>
-
+{/if}
 
 <style>
     .row {

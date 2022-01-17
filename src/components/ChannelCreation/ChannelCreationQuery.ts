@@ -1,12 +1,12 @@
 import {doPost} from "../Query";
 
-export async function createChannelMutation(ServerID:string) {
+export async function createChannelMutation(channelName:string, serverID:string) {
     let jsonQuery = {
         "query": "mutation createChannelFunc {\n" +
             "  createChannel(data: {\n" +
-            "    channelName: \"General\"\n" +
+            `    channelName: \"${channelName}\"\n` +
             "    channelType: \"Text\"\n" +
-            `    server: {connect: ${ServerID}}\n` +
+            `    server: {connect: ${serverID}}\n` +
             "    users: []\n" +
             "  }) {\n" +
             "    channelType\n" +
@@ -17,6 +17,15 @@ export async function createChannelMutation(ServerID:string) {
             "  }\n" +
             "}",
         "operationName": "createChannelFunc",
+        "variables" : {}
+    }
+    await doPost(jsonQuery);
+    return await updateServer(serverID);
+}
+export async function updateServer(serverID:string) {
+    let jsonQuery = {
+        "query" : `query UDF { updateServer(server: ${serverID}) }`,
+        "operationName": "UDF",
         "variables" : {}
     }
     return await doPost(jsonQuery);
