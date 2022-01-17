@@ -22,18 +22,29 @@
 	import ServerSidebar from "./Server/ServerSidebar.svelte";
 	import ServerParent from "./Server/ServerParent.svelte";
 	import ServerCreationParent from "./ServerCreation/ServerCreationParent.svelte";
-
-
+	import {showServerCreationPage} from "./main-store.js";
+	import {showChannelCreationPage} from "./main-store.js";
+	import ChannelCreationParent from "./ChannelCreation/ChannelCreationParent.svelte";
+	let showCreateChannelPage = false;
+	let showCreateServerPage = false;
+	showServerCreationPage.subscribe((value) => showCreateServerPage = value);
+	showChannelCreationPage.subscribe((value) => showCreateChannelPage = value);
 </script>
 <head>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </head>
 <main>
-	<div class="container">
-<!--		<ServerParent/>-->
-
+	{#if showCreateChannelPage}
 		<ServerCreationParent/>
+	{/if}
+	{#if showCreateChannelPage}
+		<ChannelCreationParent/>
+	{/if}
+	<div class="container">
+		<ServerParent/>
+
+<!--		<ServerCreationParent/>-->
 	</div>
 
 </main>

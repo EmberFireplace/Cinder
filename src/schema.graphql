@@ -1,0 +1,34 @@
+type User {
+    username: String!
+    userBio: String
+    userIconURL: String
+    ownedServers: [Server!] @relations(name: "server_owner")
+    joinedServers: [Server!] @relation
+    joinedChannels: [Channel!]!
+}
+type Query {
+    getMessagesInChannel(channel: ID!): [Message!] @resolver(paginated: true)
+    updateChannel(channel: ID!): String @resolver
+}
+
+type Server {
+    serverName: String
+    serverOwner: User! @relation(name: "server_owner")
+    channels: [Channel!] @relation(name: "server_channel")
+    serverIconURL: String
+    users: [User!]! @relation
+}
+
+type Channel {
+    channelName: String
+    channelType: String
+    messages: [Message!] @relation(name: "message_channel")
+    server: Server! @relation(name: "server_channel")
+    users: [User!]!
+}
+type Message {
+    user: User
+    userIconURL: String
+    message: String
+    channel: Channel! @relation(name: "message_channel")
+}

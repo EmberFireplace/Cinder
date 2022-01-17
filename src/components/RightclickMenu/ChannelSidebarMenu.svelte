@@ -6,6 +6,7 @@
     import {getContext, setContext} from 'svelte';
 
     import Icon from './Icon.svelte'
+    import {showChannelCreationPage} from "../main-store.js";
 
     let pos = { x: 0, y: 0 };
     let showMenu = false;
@@ -28,8 +29,8 @@
 {#if showMenu}
     <Menu {...pos} on:click={closeMenu} on:clickoutside={closeMenu}>
         <MenuOption
-                on:click={console.log}
-                text="Do nothing" />
+                on:click={() => {showChannelCreationPage.set(true);}}
+                text="Create Channel" />
         <MenuOption
                 on:click={console.log}
                 text="Do nothing, but twice" />
