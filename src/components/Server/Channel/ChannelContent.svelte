@@ -6,8 +6,9 @@
     import {onMount, tick} from 'svelte';
     import {selectedChannelID} from "../Server";
     import MessageBar from "../../MessageBar/MessageBar.svelte";
-    import {chatRoomStream} from "../fauna";
+    import FaunaStream from "../fauna";
     import {readMessageFunction} from "../../MessageQuery.js";
+    import {client} from '../fauna.js';
     let channelID = "0";
     let tempReactivityChecker = 0;
     let items = [];
@@ -21,8 +22,11 @@
     let channelJSON;
     let mostRecentKnownMessage = null;
     let bottomCursor = null;
-
-    chatRoomStream.onUpdate.add(updateMessages);
+    let chatRoomStream;
+    $: if(channelID !== "0") {
+        chatRoomStream = new FaunaStream(client, channelID);
+        chatRoomStream.onUpdate.add(updateMessages);
+    }
 
     function isInvalidChannelID() {
         return (channelID === "0" || channelID === 0);

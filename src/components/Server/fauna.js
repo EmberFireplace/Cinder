@@ -2,7 +2,7 @@ import {Collection, Ref, Client} from 'faunadb';
 
 
 // @ts-ignore
-var client = new Client({
+export var client = new Client({
     secret: 'fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN',
     domain: 'db.us.fauna.com',
     // NOTE: Use the correct domain for your database's Region Group.
@@ -48,4 +48,4 @@ export default class FaunaStream {
     }
 }
 
-export const chatRoomStream = new FaunaStream(client, "319380215416488007");
+// export const chatRoomStream = new FaunaStream(client, "319380215416488007");
