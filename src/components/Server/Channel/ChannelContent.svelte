@@ -23,9 +23,9 @@
     let mostRecentKnownMessage = null;
     let bottomCursor = null;
     let chatRoomStream;
-    $: if(channelID !== "0") {
-        chatRoomStream = new FaunaStream(client, channelID);
-        chatRoomStream.onUpdate.add(updateMessages);
+    $: if(!isInvalidChannelID()) {
+        console.log(channelID);
+        new FaunaStream(client, channelID).onUpdate.add(updateMessages);
     }
 
     function isInvalidChannelID() {
