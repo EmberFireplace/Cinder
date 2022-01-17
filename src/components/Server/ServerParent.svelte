@@ -7,9 +7,9 @@ import MessageBar from "../MessageBar/MessageBar.svelte";
 
 </script>
 
-<div class="container-fluid" id="helpme">
+<div class="container">
     <div class="row">
-        <div class="col-sm-2"><ServerSidebar/></div>
+        <div class="col-sm-3"><ServerSidebar/></div>
         <div class="col-sm-1"><ChannelSidebar/></div>
         <span class="col-sm-8"><ChannelContent/><MessageBar/></span>
     </div>
@@ -17,13 +17,6 @@ import MessageBar from "../MessageBar/MessageBar.svelte";
 </div>
 
 <style>
-
-    #helpme{
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-    }
     .flex-parent {
         display: grid;
         height: 90vh;
