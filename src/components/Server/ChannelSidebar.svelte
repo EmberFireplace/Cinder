@@ -18,7 +18,6 @@
 
 
 
-
     selectedServerID.subscribe(value => {
         serverID = value;
         reactivityMarker = 0; //After we set the value we have to set the reactivty marker to reset the dom.
@@ -43,13 +42,10 @@
                 console.log(items.length);
                 reactivityMarker = 1;
             });
-
     }
     $: if(reactivityMarker==reactivityMarker) {
         items = items;
     }
-
-
     const flipDurationMs = 300;
     function handleDndConsider(e) {
         items = e.detail.items;
@@ -78,15 +74,12 @@
         font-size: larger;
     }
 </style>
-<head>
-    <script src="https://kit.fontawesome.com/c7b2053285.js" crossorigin="anonymous"></script>
-</head>
 
 <ChannelSidebarMenu bind:this={referenceVar}/>
 <div on:contextmenu|preventDefault={(e) => referenceVar.onRightClick(e)}>
 <section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">
     {#each items as item(item.id)}
-        <div animate:flip="{{duration: flipDurationMs}}" on:click={handleClick(item.id)}><span><i class="fas fa-hashtag"></i>{item.name}</span></div>
+        <div animate:flip="{{duration: flipDurationMs}}" on:click={handleClick(item.id)}>{item.name}</div>
     {/each}
 </section>
 </div>
