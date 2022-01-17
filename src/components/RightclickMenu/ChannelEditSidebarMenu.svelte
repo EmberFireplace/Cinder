@@ -11,7 +11,6 @@
     let pos = { x: 0, y: 0 };
     let showMenu = false;
     export async function onRightClick(e) {
-
         if (showMenu) {
             showMenu = false;
             await new Promise(res => setTimeout(res, 100));
@@ -20,9 +19,11 @@
         pos = { x: e.clientX, y: e.clientY };
         showMenu = true;
     }
-
     function closeMenu() {
         showMenu = false;
+    }
+    function DeleteChannel() {
+
     }
 </script>
 
@@ -31,6 +32,10 @@
         <MenuOption
                 on:click={() => {showChannelCreationPage.set(true);}}
                 text="Create Channel" />
+        <MenuDivider/>
+        <MenuOption
+            on:click={() => DeleteChannel()}
+            text="Delete Channel"/>
     </Menu>
 {/if}
 

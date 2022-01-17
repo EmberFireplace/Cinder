@@ -7,8 +7,9 @@
     import {selectedServerID} from "./Server";
     import {getContext} from 'svelte';
     import ChannelSidebarMenu from "../RightclickMenu/ChannelSidebarMenu.svelte";
+    import ChannelEditSidebarMenu from "../RightclickMenu/ChannelEditSidebarMenu.svelte";
     let referenceVar;
-
+    let secondReferenceVar;
 
     export let serverID = null;
     let items = [];
@@ -79,7 +80,12 @@
 <div on:contextmenu|preventDefault={(e) => referenceVar.onRightClick(e)}>
 <section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">
     {#each items as item(item.id)}
-        <div animate:flip="{{duration: flipDurationMs}}" on:click={handleClick(item.id)}>{item.name}</div>
+
+            <div animate:flip="{{duration: flipDurationMs}}" on:click={handleClick(item.id)}>
+                <ChannelEditSidebarMenu bind:this={secondReferenceVar}/>
+                <div on:contextmenu|preventDefault={(e) => secondReferenceVar.onRightClick(e)}>
+                    {item.name}</div>
+        </div>
     {/each}
 </section>
 </div>
