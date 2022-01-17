@@ -7,10 +7,15 @@
 
     import Icon from './Icon.svelte'
     import {showChannelCreationPage} from "../main-store.js";
-
+    import {deleteChannelMutation} from "../ChannelCreation/ChannelCreationQuery.ts";
+    import {selectedServerID} from "../Server/Server.js";
+    let serverID;
+    selectedServerID.subscribe((value) => serverID = value);
     let pos = { x: 0, y: 0 };
     let showMenu = false;
-    export async function onRightClick(e) {
+    let channelID;
+    export async function onRightClick(e, tempChannelID) {
+        channelID = tempChannelID;
         if (showMenu) {
             showMenu = false;
             await new Promise(res => setTimeout(res, 100));
@@ -23,7 +28,7 @@
         showMenu = false;
     }
     function DeleteChannel() {
-
+        deleteChannelMutation(channelID, serverID);
     }
 </script>
 

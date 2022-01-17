@@ -30,3 +30,16 @@ export async function updateServer(serverID:string) {
     }
     return await doPost(jsonQuery);
 }
+export async function deleteChannelMutation(channelID:any, serverID:any) {
+    let jsonQuery = {
+        "query": "mutation deleteChannelFunc{\n" +
+            `  deleteChannel(id:\"${channelID}\") {\n` +
+            "    _id\n" +
+            "  }\n" +
+            "}",
+        "operationName": "deleteChannelFunc",
+        "variables" : {}
+    }
+    await doPost(jsonQuery);
+    return await updateServer(serverID);
+}

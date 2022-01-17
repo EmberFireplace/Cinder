@@ -77,12 +77,12 @@
 </style>
 
 <ChannelSidebarMenu bind:this={referenceVar}/>
+<ChannelEditSidebarMenu bind:this={secondReferenceVar}/>
 <div on:contextmenu|preventDefault={(e) => {referenceVar.onRightClick(e); if(secondReferenceVar != null) {secondReferenceVar.closeMenu()}}}>
 <section use:dndzone="{{items, flipDurationMs}}" on:consider="{handleDndConsider}" on:finalize="{handleDndFinalize}">
     {#each items as item(item.id)}
             <div animate:flip="{{duration: flipDurationMs}}" on:click={handleClick(item.id)}>
-                <ChannelEditSidebarMenu bind:this={secondReferenceVar}/>
-                <div on:contextmenu|preventDefault={(e) => secondReferenceVar.onRightClick(e)}>
+                <div on:contextmenu|preventDefault={(e) => secondReferenceVar.onRightClick(e, item.id)}>
                     {item.name}</div>
         </div>
     {/each}
