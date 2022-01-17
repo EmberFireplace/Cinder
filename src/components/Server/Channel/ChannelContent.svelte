@@ -17,7 +17,6 @@
     let valueChecker = 0;
     let valueTemp = 0;
     let cursor = "beginning";
-    let otherTempCursor = "beginning";
     let tempCursor = null;
     let channelJSON;
     let mostRecentKnownMessage = null;
@@ -26,6 +25,18 @@
     $: if(!isInvalidChannelID()) {
         console.log(channelID);
         new FaunaStream(client, channelID).onUpdate.add(updateMessages);
+    }
+
+    $: if(channelID === channelID) {
+        cursor = "beginning";
+        tempCursor = null;
+        mostRecentKnownMessage = null;
+        bottomCursor = null;
+        channelJSON = null;
+        valueTemp = 0;
+        valueChecker = 0;
+        items = [];
+
     }
 
     function isInvalidChannelID() {
