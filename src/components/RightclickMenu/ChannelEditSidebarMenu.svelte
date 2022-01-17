@@ -43,5 +43,3 @@
             text="Delete Channel"/>
     </Menu>
 {/if}
-
-<!--<svelte:body on:contextmenu|preventDefault={onRightClick} />-->

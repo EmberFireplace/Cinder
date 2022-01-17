@@ -28,13 +28,13 @@
         grid-gap: 5px;
     }
     div:hover {
-        background: #0002;
+        background: #FFF2;
     }
     div.disabled {
-        color: #0006;
+        color: #EEE6;
     }
     div.disabled:hover {
-        background: white;
+        background: grey;
     }
 </style>
 
