@@ -2,13 +2,14 @@ type User {
     username: String!
     userBio: String
     userIconURL: String
-    ownedServers: [Server!] @relations(name: "server_owner")
+    ownedServers: [Server!] @relation(name: "server_owner")
     joinedServers: [Server!] @relation
     joinedChannels: [Channel!]!
 }
 type Query {
     getMessagesInChannel(channel: ID!): [Message!] @resolver(paginated: true)
     updateChannel(channel: ID!): String @resolver
+    updateServer(server: ID!): String @resolver
 }
 
 type Server {
