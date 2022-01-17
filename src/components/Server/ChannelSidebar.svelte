@@ -8,6 +8,7 @@
     import {getContext} from 'svelte';
     import ChannelSidebarMenu from "../RightclickMenu/ChannelSidebarMenu.svelte";
     import ChannelEditSidebarMenu from "../RightclickMenu/ChannelEditSidebarMenu.svelte";
+    import FaunaStream from "./fauna.js";
     let referenceVar;
     let secondReferenceVar;
 
@@ -17,8 +18,23 @@
     let possibleChannels = null;
     let reactivityMarker = 0;
 
-
-
+    let myFaunaStream = null;
+    $: if(!isInvalidServerID()) {
+        console.log("adding updated server id" + serverID);
+        if(myFaunaStream !== null) {
+            myFaunaStream.destroy();
+        }
+        myFaunaStream = new FaunaStream(null, serverID, "Server");
+        myFaunaStream.onUpdate.add(()=>doGetChannelsFromServerID());
+        //myFaunaStream.onUpdate.add(updateChannels);
+        updateChannels();
+    }
+    function updateChannels() {
+        items = [...items];
+    }
+    function isInvalidServerID() {
+        return serverID == null || serverID === 0 || serverID === "0";
+    }
     selectedServerID.subscribe(value => {
         serverID = value;
         reactivityMarker = 0; //After we set the value we have to set the reactivty marker to reset the dom.
@@ -28,8 +44,11 @@
         console.log("id is : " + id);
         selectedChannelID.set(id);
     }
-    $:{
+
+    function doGetChannelsFromServerID() {
         items = [];
+        reactivityMarker = 0;
+        console.log("trying to get it from id");
         getChannelsFromServerID(serverID).then(
             value => {
                 let temp = [...value];
@@ -43,6 +62,10 @@
                 console.log(items.length);
                 reactivityMarker = 1;
             });
+    }
+
+    $:{
+        doGetChannelsFromServerID();
     }
     $: if(reactivityMarker==reactivityMarker) {
         items = items;

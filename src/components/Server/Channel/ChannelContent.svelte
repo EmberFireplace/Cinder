@@ -8,7 +8,6 @@
     import MessageBar from "../../MessageBar/MessageBar.svelte";
     import FaunaStream from "../fauna";
     import {readMessageFunction} from "../../MessageQuery.js";
-    import {client} from '../fauna.js';
     let channelID = "0";
     let tempReactivityChecker = 0;
     let items = [];
@@ -21,10 +20,14 @@
     let channelJSON;
     let mostRecentKnownMessage = null;
     let bottomCursor = null;
-    let chatRoomStream;
+    let chatRoomStream = null;
     $: if(!isInvalidChannelID()) {
         console.log(channelID);
-        new FaunaStream(client, channelID).onUpdate.add(updateMessages);
+        if(chatRoomStream !== null) {
+            chatRoomStream.destroy();
+        }
+        chatRoomStream = new FaunaStream(null, channelID, "Channel");
+        chatRoomStream.onUpdate.add(updateMessages);
     }
 
     $: if(channelID === channelID) {
@@ -36,7 +39,6 @@
         valueTemp = 0;
         valueChecker = 0;
         items = [];
-
     }
 
     function isInvalidChannelID() {
