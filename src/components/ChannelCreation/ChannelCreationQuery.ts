@@ -4,7 +4,7 @@ export async function createChannelMutation(channelName:string, serverID:string)
     let jsonQuery = {
         "query": "mutation createChannelFunc {\n" +
             "  createChannel(data: {\n" +
-            `    channelName: \"${channelName}\"\n` +
+            `    channelName: "${channelName}"\n` +
             "    channelType: \"Text\"\n" +
             `    server: {connect: ${serverID}}\n` +
             "    users: []\n" +

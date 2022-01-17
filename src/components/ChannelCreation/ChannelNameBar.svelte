@@ -1,5 +1,5 @@
 <script>
-    let value;
+    export let value = "hi";
 </script>
 
 <head>
