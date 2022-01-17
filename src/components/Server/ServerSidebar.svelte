@@ -8,6 +8,7 @@
     import {varUserID} from "./Server";
     import {selectedChannelID} from "./Server";
 
+
     export let currentServerID = null;
     let userID = "319377263493644361";
     varUserID.subscribe(value => userID = value);
