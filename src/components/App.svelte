@@ -25,9 +25,10 @@
 	import {showServerCreationPage} from "./main-store.js";
 	import {showChannelCreationPage} from "./main-store.js";
 	import ChannelCreationParent from "./ChannelCreation/ChannelCreationParent.svelte";
+	import {FaunaPaginate} from "../wrapper/FaunaWrapper.ts";
 	let showCreateServerPage = false;
 	showServerCreationPage.subscribe((value) => showCreateServerPage = value);
-
+	FaunaPaginate.runPagination().then((value) => console.log(JSON.stringify(value)));
 </script>
 <head>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">

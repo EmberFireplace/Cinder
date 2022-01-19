@@ -1,8 +1,8 @@
-import {Client} from "faunadb";
+import {Client, query} from "faunadb";
 
 let authorizationHeader:string = "Bearer fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN";
 let endpoint:string = "https://graphql.us.fauna.com/graphql";
-
+const q = query;
 
 let client = new Client({
     secret: 'fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN',
@@ -32,6 +32,26 @@ export async function doPost (queryJson:any) {
     return result;
 }
 
+export class FaunaPaginate {
+    private paginatedObjects = [];
+    constructor() {
+    }
+    static async runPagination() {
+        return (await client.query(
+            q.Map(
+            q.Paginate(
+                q.Match(
+                    q.Index("server_channel_by_server"),
+                    q.Ref(q.Collection("Server"), "319377356121702472")
+                )
+            ),
+                q.Lambda("X", q.Get(q.Var("X")))
+        )
+            )
+        )
+    }
+}
+
 export class Pagnatable {
     /**
      * @private cursor - is whatever comes next in the pagnation request
@@ -57,7 +77,7 @@ export class Pagnatable {
      updatedObjects - Called when a subscription lets us know that there are objects to read from the server to add to our list.
      */
     async updateObjects() {
-        return; //TODO:REMOVE
+
         if(this.pagnatedObjects.length === 0 || this.isPagnating) {
             return;
             // //TODO:idk if this works.
@@ -99,7 +119,6 @@ export class Pagnatable {
         this.pagnatedObjects = [...this.pagnatedObjects, object];
     }
     getPagnatedObjects() {
-        return [];//TODO:REMOVE
         return this.pagnatedObjects;
     }
 
@@ -108,7 +127,6 @@ export class Pagnatable {
      * @private
      */
     public async pagnateForObjects(size:number) {
-        return;//TODO:REMOVE
         while(this.isPagnating) {}
         this.isPagnating = true;
         let jsonPagnationResult = (await (this.getJsonFromPagnation(size, this.afterCursor)));

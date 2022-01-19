@@ -24,17 +24,17 @@
         threadLock = false;
     }
 
-    $: if(channelID !== "0" && channelID !== 0) {
-        console.log("channel id is not 0");
-        pagnatableMessages = new PagnatableMessages(channelID);
-        newItems = pagnatableMessages.getPagnatedObjects();
-        pagnatableMessages.pagnateForObjects(12).then(updateNewItems);
-        chatRoomStream = new FaunaStream(null, channelID, "Channel");
-        chatRoomStream.onUpdate.add(() => pagnatableMessages.updateObjects().then(updateNewItems));
-
-    } else {
-        console.log("channel id is 0");
-    }
+    // $: if(channelID !== "0" && channelID !== 0) {
+    //     console.log("channel id is not 0");
+    //     pagnatableMessages = new PagnatableMessages(channelID);
+    //     newItems = pagnatableMessages.getPagnatedObjects();
+    //     pagnatableMessages.pagnateForObjects(12).then(updateNewItems);
+    //     chatRoomStream = new FaunaStream(null, channelID, "Channel");
+    //     chatRoomStream.onUpdate.add(() => pagnatableMessages.updateObjects().then(updateNewItems));
+    //
+    // } else {
+    //     console.log("channel id is 0");
+    // }
     selectedChannelID.subscribe(value => {
         channelID = value;
         if (isInvalidChannelID()) {
