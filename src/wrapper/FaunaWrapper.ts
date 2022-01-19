@@ -57,6 +57,7 @@ export class Pagnatable {
      updatedObjects - Called when a subscription lets us know that there are objects to read from the server to add to our list.
      */
     async updateObjects() {
+        return; //TODO:REMOVE
         if(this.pagnatedObjects.length === 0 || this.isPagnating) {
             return;
             // //TODO:idk if this works.
@@ -81,7 +82,6 @@ export class Pagnatable {
                     this.pagnatedObjects = [...this.pagnatedObjects, ...objectsToAdd];
                     return;
                 } else {
-                    console.log("YAYAAAAAAAAAAAAAAAAA");
                     if(!objectsToAdd.includes(objects[i])) {
                         objectsToAdd.push(objects[i]);
                     }
@@ -99,6 +99,7 @@ export class Pagnatable {
         this.pagnatedObjects = [...this.pagnatedObjects, object];
     }
     getPagnatedObjects() {
+        return [];//TODO:REMOVE
         return this.pagnatedObjects;
     }
 
@@ -107,6 +108,7 @@ export class Pagnatable {
      * @private
      */
     public async pagnateForObjects(size:number) {
+        return;//TODO:REMOVE
         while(this.isPagnating) {}
         this.isPagnating = true;
         let jsonPagnationResult = (await (this.getJsonFromPagnation(size, this.afterCursor)));
