@@ -24,7 +24,9 @@
 
     const sortList = ev => {list = ev.detail};
 </script>
-
+<!--
+A list of all the servers listed with their icon, and you can click on them to activate their channels.
+-->
 <SortableList
         {list}
         key="serverID"
