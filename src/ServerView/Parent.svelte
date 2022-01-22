@@ -16,12 +16,12 @@ import {createEventDispatcher} from "svelte";
  * This is where we declare all the bubble down function props, so we can call functions in child components.
  */
     //These are all the props we call when we are trying to bubble down an event. They are prefixed with a 'callWhen[EventName]'
-    let callWhenServerIconClicked;
+    let callWhenServerIconClick;
 
     //These are the props we call when we just wanna normally call functions from child components. They are prefixed with a '[UNDETERMINED]'
 
 </script>
 <div>
-    <ServerSidebar on:serverIconClicked={callWhenServerIconClicked}/>
-    <ChannelSidebar bind:onServerIconClicked={callWhenServerIconClicked}/>
+    <ServerSidebar on:serverIconClick={callWhenServerIconClick}/>
+    <ChannelSidebar bind:onServerIconClick={callWhenServerIconClick}/>
 </div>

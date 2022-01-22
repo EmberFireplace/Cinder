@@ -15,14 +15,14 @@
      * This sends events everytime the server icon is clicked.
      */
     const dispatch = createEventDispatcher();
-    function sendServerIconClickedEvent() {
-       dispatch('serverIconClicked', {
+    function sendServerIconClickEvent() {
+       dispatch('serverIconClick', {
            serverObject: serverObject
        })
     }
 
 </script>
-    <div on:click={() => sendServerIconClickedEvent()} class="circular_image" style="--image-url: {serverURL}"></div>
+    <div on:click={() => sendServerIconClickEvent()} class="circular_image" style="--image-url: {serverURL}"></div>
 <style>
     .circular_image {
         width: 200px;

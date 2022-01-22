@@ -10,7 +10,7 @@
 
 
     //These are the events called on from a parent's event prefixed with a 'on[EventName](ed)'
-    export let onServerIconClicked = (event) => {
+    export let onServerIconClick = (event) => {
        console.log("server icon click recognized in ChannelSidebar");
        console.log(event.detail);
        let serverObject = event.detail.serverObject;

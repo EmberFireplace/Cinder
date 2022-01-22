@@ -10,7 +10,10 @@ Welcome to Cinder's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   standards
+   standards/standards
+   source-code/ServerIcon
+   source-code/ServerSidebar
+   source-code/FaunaWrapper
 
 
 Indices and tables

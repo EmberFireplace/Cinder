@@ -33,5 +33,5 @@ A list of all the servers listed with their icon, and you can click on them to a
         on:sort={sortList}
         let:item
         let:index>
-    <ServerIcon on:serverIconClicked serverObject="{list[index]}"/>
+    <ServerIcon on:serverIconClick serverObject="{list[index]}"/>
 </SortableList>
