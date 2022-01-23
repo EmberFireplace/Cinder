@@ -93,6 +93,21 @@ export class ServerObject {
 export class ServerFaunaAPI {
     constructor() {
     }
+    static async paginateForMessagesFromChannelInReverse(channelID:string, cursor:any, sizeOfMsg:number) {
+        console.log("paginatingForMessagesFromChannelInReverse");
+        return (await client.query(
+            q.Map(
+                q.Paginate(
+                    q.Match(
+                        q.Index("all_messages_by_channel_id"),
+                        q.Ref(q.Collection("Channel"), channelID)
+                    ),
+                    {size : sizeOfMsg, before:cursor}
+                ),
+                q.Lambda("X", q.Get(q.Var("X")))
+            )
+        ))
+    }
     static async paginateForServersFromUser(userID:string) {
         console.log("paginatingForServersFromUser");
         return (await client.query(

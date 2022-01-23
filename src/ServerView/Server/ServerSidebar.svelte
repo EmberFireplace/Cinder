@@ -1,8 +1,8 @@
 <script>
     import SortableList from 'svelte-sortable-list';
     import ServerIcon from "./ServerIcon.svelte";
-    import {storedUserID} from "../store.js";
-    import {ServerFaunaAPI, ServerObject} from "../FaunaWrapper.ts";
+    import {storedUserID} from "../../store.js";
+    import {ServerFaunaAPI, ServerObject} from "../../FaunaWrapper.ts";
 
     /**
      * Syncs up the userID from our store.js file

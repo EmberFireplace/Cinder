@@ -1,6 +1,8 @@
 <script>
-    import ServerIcon from './ServerIcon.svelte'
-    import {ServerFaunaAPI, ChannelObject} from "../FaunaWrapper.ts";
+    import ServerIcon from '../Server/ServerIcon.svelte'
+    import {ServerFaunaAPI, ChannelObject} from "../../FaunaWrapper.ts";
+    import SortableList from 'svelte-sortable-list';
+    import ChannelElement from "./ChannelElement.svelte";
     //TODO code to check whether a server object has been updated since we last checked, if so we refresh. otherwise we use the saved data. Not going to impelemnt rn cause slightly expensive.
     //Need to make it so that we don't repagnate if we have the saved data for that - DONE
 
@@ -8,7 +10,13 @@
     let serverIDToChannelListMap = new Map();
     let currentChannelList = [];
 
+    let list = []; //Have to use this because of the weirdness of Sortable List object.
 
+    $: list = currentChannelList;
+
+    $:{
+        console.log(list);
+    }
     //These are the events called on from a parent's event prefixed with a 'on[EventName](ed)'
     export let onServerIconClick = (event) => {
        console.log("server icon click recognized in ChannelSidebar");
@@ -32,10 +40,17 @@
            currentChannelList = [...serverIDToChannelListMap.get(serverObject.serverID)];
        }
     };
-
+    const sortList = ev => {list = ev.detail};
 </script>
 
-<div></div>
+<SortableList
+        {list}
+        key="channelID"
+        on:sort={sortList}
+        let:item
+        let:index>
+    <ChannelElement on:channelElementClick channelObject="{list[index]}"/>
+</SortableList>
 
 <style>
     div {

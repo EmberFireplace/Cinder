@@ -1,9 +1,10 @@
 <script>
-import ServerSidebar from "./ServerSidebar.svelte";
+import ServerSidebar from "./Server/ServerSidebar.svelte";
 import {ServerFaunaAPI, ServerObject} from "../FaunaWrapper.ts";
 import {storedUserID} from "../store.js";
-import ChannelSidebar from "./ChannelSidebar.svelte";
+import ChannelSidebar from "./Channel/ChannelSidebar.svelte";
 import {createEventDispatcher} from "svelte";
+import MessageList from "./Message/MessageList.svelte";
 
 /**
  * This code is where we subscribe to all the values we have saved in our store.js file.
@@ -17,11 +18,16 @@ import {createEventDispatcher} from "svelte";
  */
     //These are all the props we call when we are trying to bubble down an event. They are prefixed with a 'callWhen[EventName]'
     let callWhenServerIconClick;
-
+    let callWhenChannelElementClick;
     //These are the props we call when we just wanna normally call functions from child components. They are prefixed with a '[UNDETERMINED]'
 
 </script>
 <div>
-    <ServerSidebar on:serverIconClick={callWhenServerIconClick}/>
-    <ChannelSidebar bind:onServerIconClick={callWhenServerIconClick}/>
+    <ServerSidebar
+                on:serverIconClick={callWhenServerIconClick}/>
+    <ChannelSidebar
+            bind:onServerIconClick={callWhenServerIconClick}
+                on:channelElementClick={callWhenChannelElementClick}/>
+    <MessageList
+            bind:onChannelElementClick={callWhenChannelElementClick}/>
 </div>

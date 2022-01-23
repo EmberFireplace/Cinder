@@ -26,9 +26,9 @@ Exported
 
 serverObject - the instance of the :ref:`serverObject<ServerObject>`\ set in the :ref:`ServerSidebar<ServerSidebar>`.
 
--------
+------
 Events
--------
+------
 
 ^^^^^^^^^^^^^^^
 ServerIconClick

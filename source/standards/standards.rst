@@ -54,7 +54,7 @@ The function name for events is prepended with send and postpended with Event
 
 .. parsed-literal::
 
-    <div on:\ `triggeringEvent`\ ={() => send\ :ref:`DescriptiveName<Descriptive Naming>`\ Event()}</div>
+    <div on:\ *triggeringEvent*\ ={() => send\ :ref:`DescriptiveName<Descriptive Naming>`\ Event()}</div>
 
 ^^^^^^^^^^
 Event Name
@@ -74,12 +74,12 @@ Bubble down props in the parent svelte class should be named :
 
 An example of this is in the Parent svelte class under ServerView folder:
 
-.. highlights:: javascript
+.. code-block:: javascript
 
     let callWhenServerIconClick;
 
 
-.. codeblock:: html
+.. code-block:: html
 
     <ServerSidebar on:serverIconClick={callWhenServerIconClick}>
     <ChannelSidebar bind:onServerIconClick{callWhenServerIconClick}>
@@ -90,7 +90,7 @@ An example of this is in the Parent svelte class under ServerView folder:
 Bubble Down Prop Variables (Children)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Bubble down props in the child classes should be named :
+Bubble down props in the child classes which are variables assocaited with lambda functions should be named :
 
 .. parsed-literal::
 
@@ -98,7 +98,7 @@ Bubble down props in the child classes should be named :
 
 An example of this is in the ChannelSidebar class under the ServerView folder:
 
-.. highlights:: javascript
+.. code-block:: javascript
 
     export let onServerIconClick = (event) => {
         //lots of fancy code...

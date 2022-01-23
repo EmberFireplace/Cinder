@@ -1,5 +1,5 @@
 <script>
-    import {ServerObject} from "../FaunaWrapper.ts";
+    import {ServerObject} from "../../FaunaWrapper.ts";
     import { createEventDispatcher } from 'svelte';
 
     /**
