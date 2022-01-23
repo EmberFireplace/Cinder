@@ -31,6 +31,27 @@ export async function doPost (queryJson:any) {
     console.log(JSON.stringify(result));
     return result;
 }
+export class MessageObject {
+    public originalTimestamp:string; //a saved original timestamp used to sort and also display what time the message was originally sent. TODO::not used yet
+    public timestamp:string; //the actual timestamp from fauna, but its updated everytime a user edits a message.
+    public message:string;
+    public profileURL:string; //The url to the profile pic that a user had at the time they originally sent the message.
+    public userID:string; //The id of the user who sent the message.
+    constructor(json) {
+    }
+    private static parseTimestampFromJSON(json) {
+
+    }
+    private static parseMessageFromJSON(json) {
+
+    }
+    private static parseProfileURLFromJSON(json) {
+
+    }
+    private static parseUserIDFromJSON(json) {
+
+    }
+}
 export class ChannelObject {
     public channelName:string;
     public channelID:string;
@@ -139,22 +160,4 @@ export class ServerFaunaAPI {
         )
     }
 }
-export class FaunaPaginate {
-    private paginatedObjects = [];
-    constructor() {
-    }
-    static async runPagination() {
-        return (await client.query(
-                q.Map(
-                    q.Paginate(
-                        q.Match(
-                            q.Index("server_channel_by_server"),
-                            q.Ref(q.Collection("Server"), "319377356121702472")
-                        )
-                    ),
-                    q.Lambda("X", q.Get(q.Var("X")))
-                )
-            )
-        )
-    }
-}
+
