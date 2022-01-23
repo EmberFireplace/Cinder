@@ -11,6 +11,7 @@ Welcome to Cinder's documentation!
    :caption: Contents:
 
    standards/standards
+   standards/fauna
    source-code/ServerIcon
    source-code/ServerSidebar
    source-code/FaunaWrapper

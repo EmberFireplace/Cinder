@@ -22,9 +22,9 @@ Variables
 Internal
 ########
 
-^^^^^^^^^^
+**********
 ServerList
-^^^^^^^^^^
+**********
 
 list - Is the :ref:`Server List<ServerList>` , but needs to be named list because of restrictions of the :ref:`SortableList<SortableList>`
 component.

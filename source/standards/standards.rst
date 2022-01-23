@@ -1,14 +1,14 @@
-################
+================
 Coding Standards
-################
+================
 
-==================
+------------------
 Naming Conventions
-==================
+------------------
 
-------------------
+##################
 Descriptive Naming
-------------------
+##################
 
     Attempt to err on the side of being more verbose when naming things, verbose naming can allow you to be more descriptive.
     Being able to understand what a variable or function is doing just by reading it should be the standard.
@@ -19,9 +19,9 @@ Descriptive Naming
     this means do NOT include **ed**\ , **ing** or any other forms of tensing in your names for things.
     I.E. use *'channelClick'* NOT *'channelClicked'* or *'channelClicking'*
 
-------
+######
 Casing
-------
+######
 
 Sticking with the convention of Javascript and Java, and also personally because it is in my opinon the most readable
 you must use camelCase for variables and functions, UpperCamelCase for Svelte Components and Classes.
@@ -32,39 +32,40 @@ You also should use full uppercase on acronyms when possible. So `userID` would 
 
     TODO://Add other casing standards later.
 
--------
 
 
 
-======
+
+------
 Svelte
-======
+------
 
-------
+######
 Events
-------
+######
 
 When declaring functions for Events we have a function, a event name, and prop variable combos to bubble the event down.
 
 
-^^^^^^^^
+********
 Function
-^^^^^^^^
+********
+
 The function name for events is prepended with send and postpended with Event
 
 .. parsed-literal::
 
     <div on:\ *triggeringEvent*\ ={() => send\ :ref:`DescriptiveName<Descriptive Naming>`\ Event()}</div>
 
-^^^^^^^^^^
+**********
 Event Name
-^^^^^^^^^^
+**********
 The event name should be just the :ref:`descriptiveName<Descriptive Naming>`
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+************************************
 Bubble Down Prop Variables (Parents)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+************************************
 
 Bubble down props in the parent svelte class should be named :
 
@@ -86,9 +87,9 @@ An example of this is in the Parent svelte class under ServerView folder:
 
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*************************************
 Bubble Down Prop Variables (Children)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*************************************
 
 Bubble down props in the child classes which are variables assocaited with lambda functions should be named :
 
