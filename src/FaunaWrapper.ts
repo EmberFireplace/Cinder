@@ -1,35 +1,53 @@
 import {Client, query} from "faunadb";
 
-let authorizationHeader:string = "Bearer fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN";
-let endpoint:string = "https://graphql.us.fauna.com/graphql";
+// let authorizationHeader:string = "Bearer fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN";
+// let endpoint:string = "https://graphql.us.fauna.com/graphql";
 const q = query;
-
+let adminKey = 'fnAEdmPomBAARWAMN2YuNAHXnAt24T-olkZbh3ze';
 let client = new Client({
-    secret: 'fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN',
+    secret: 'fnAEdmXHK8AARUSKHyvCLYJrw0AqlRDwuFHD9nHl',
     domain: 'db.us.fauna.com',
     // NOTE: Use the correct domain for your database's Region Group.
     port: 443,
     scheme: 'https',
 });
 
-/**
- * Function throws error if a invalid json is passed and returns null
- * @param queryJson - a Json defining the query, the arguments, and the function to process
- * @returns {Promise<any>} - a promise that resolves when the json request goes through to the internet.
- */
-export async function doPost (queryJson:any) {
-    const res = await fetch(endpoint, {
-        method: 'POST',
-        headers: { 'Authorization' : authorizationHeader},
-        body: JSON.stringify(
-            queryJson
-        )
-    })
 
-    const json = await res.json()
-    const result = json;
-    console.log(JSON.stringify(result));
-    return result;
+// /**
+//  * Function throws error if a invalid json is passed and returns null
+//  * @param queryJson - a Json defining the query, the arguments, and the function to process
+//  * @returns {Promise<any>} - a promise that resolves when the json request goes through to the internet.
+//  */
+// export async function doPost (queryJson:any) {
+//     const res = await fetch(endpoint, {
+//         method: 'POST',
+//         headers: { 'Authorization' : authorizationHeader},
+//         body: JSON.stringify(
+//             queryJson
+//         )
+//     })
+//
+//     const json = await res.json()
+//     const result = json;
+//     console.log(JSON.stringify(result));
+//     return result;
+// }
+
+export class MessageListObject {
+    //We will need a seperate object that has an updated timestamp if a message is updated, and the default server in fauna
+    //When a new message is sent.
+    channelIDToChannelListMap = new Map();
+    currentMessageList: string[] = [];
+    cursor:any;
+    defaultQuerySize:number = 5;
+    channelID:string;
+    defaultSizeOfStoredMessages = 20; //We are going to pop off messages as we scroll up and push.
+    constructor(channelID) {
+        this.channelID = channelID;
+    }
+
+    public updated
+
 }
 export class MessageObject {
     public originalTimestamp:string; //a saved original timestamp used to sort and also display what time the message was originally sent. TODO::not used yet
@@ -92,6 +110,9 @@ export class ServerObject {
         this.serverIconURL = ServerObject.parseServerIconURLFromJSON(json);
         this.timestamp = ServerObject.parseTimestampFromJSON(json);
     }
+    public static createServer(serverName:string, serverOwnerID:string, serverIconURL:string) {
+
+    }
     private static parseTimestampFromJSON(json):string {
         return json["ts"];
     }
@@ -110,6 +131,9 @@ export class ServerObject {
     public getServerObjectAsString() {
         return "server name : " + this.serverName + ", serverID : " + this.serverID + ", serverOwnerID : " + this.serverOwnerID + ", serverIconURL : " + this.serverIconURL + ", timestamp : " + this.timestamp;
     }
+}
+export class UserFunctions {
+
 }
 export class ServerFaunaAPI {
     constructor() {

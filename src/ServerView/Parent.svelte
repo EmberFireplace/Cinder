@@ -1,10 +1,12 @@
 <script>
 import ServerSidebar from "./Server/ServerSidebar.svelte";
-import {ServerFaunaAPI, ServerObject} from "../FaunaWrapper.ts";
+import {ServerFaunaAPI, ServerObject, UserFunctions} from "../FaunaWrapper.ts";
 import {storedUserID} from "../store.js";
 import ChannelSidebar from "./Channel/ChannelSidebar.svelte";
-import {createEventDispatcher} from "svelte";
+import {createEventDispatcher, onMount} from "svelte";
 import MessageList from "./Message/MessageList.svelte";
+import {runTempToLogin, UserAuth} from "../Fauna/UserAuth.ts";
+import {writable} from "svelte/store";
 
 /**
  * This code is where we subscribe to all the values we have saved in our store.js file.
@@ -21,13 +23,18 @@ import MessageList from "./Message/MessageList.svelte";
     let callWhenChannelElementClick;
     //These are the props we call when we just wanna normally call functions from child components. They are prefixed with a '[UNDETERMINED]'
 
+
+
+
+
+
 </script>
 <div>
-    <ServerSidebar
-                on:serverIconClick={callWhenServerIconClick}/>
-    <ChannelSidebar
-            bind:onServerIconClick={callWhenServerIconClick}
-                on:channelElementClick={callWhenChannelElementClick}/>
-    <MessageList
-            bind:onChannelElementClick={callWhenChannelElementClick}/>
+<!--    <ServerSidebar-->
+<!--                on:serverIconClick={callWhenServerIconClick}/>-->
+<!--    <ChannelSidebar-->
+<!--            bind:onServerIconClick={callWhenServerIconClick}-->
+<!--                on:channelElementClick={callWhenChannelElementClick}/>-->
+<!--    <MessageList-->
+<!--            bind:onChannelElementClick={callWhenChannelElementClick}/>-->
 </div>

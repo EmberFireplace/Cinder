@@ -18,6 +18,25 @@ type Server {
     channels: [Channel!] @relation(name: "server_channel")
     serverIconURL: String
     users: [User!]! @relation
+    channelUpdatedMarker: ChannelUpdatedMarker @relation(name: "channel_updated_marker")
+    channelAddedMarker: ChannelAddedMarker @relation(name: "channel_added_marker")
+}
+
+type ChannelUpdatedMarker{
+    dummyString: String
+    channels: [Channel] @relation(name: "channel_updated_marker")
+}
+type ChannelAddedMarker{
+    dummyString: String
+    channels: [Channel] @relation(name: "channel_added_marker")
+}
+type MessageUpdatedMarker {
+    dummyString: String
+    messages: [Message] @relation(name: "message_updated_marker")
+}
+type MessageAddedMarker {
+    dummyString: String
+    messages: [Message] @relation(name: "message_added_marker")
 }
 
 type Channel {
@@ -26,6 +45,8 @@ type Channel {
     messages: [Message!] @relation(name: "message_channel")
     server: Server! @relation(name: "server_channel")
     users: [User!]!
+    messageUpdatedMarker: MessageUpdatedMarker @relation(name: "message_updated_marker")
+    messageAddedMarker: MessageAddedMarker @relation(name: "message_added_marker")
 }
 type Message {
     user: User

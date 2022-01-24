@@ -3,72 +3,6 @@ Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
 Trying to load configs for /home/malek/WebstormProjects/Cinder
 Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
 SnapshotManager File Statistics:
-Project files: 8
-Svelte files: 5
-From node_modules: 0
-Total: 8
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Initialize language server at  file:///home/malek/WebstormProjects/Cinder/
-Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
-Trying to load configs for /home/malek/WebstormProjects/Cinder
-Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
-SnapshotManager File Statistics:
-Project files: 8
-Svelte files: 5
-From node_modules: 0
-Total: 8
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Initialize language server at  file:///home/malek/WebstormProjects/Cinder/
-Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
-Trying to load configs for /home/malek/WebstormProjects/Cinder
-Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
-SnapshotManager File Statistics:
 Project files: 10
 Svelte files: 7
 From node_modules: 0
@@ -97,34 +31,23 @@ Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelt
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 10
+Svelte files: 8
+From node_modules: 169
+Total: 179
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 SnapshotManager File Statistics:
 Project files: 10
 Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+From node_modules: 169
+Total: 179
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
@@ -137,19 +60,8 @@ Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelt
 SnapshotManager File Statistics:
 Project files: 10
 Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+From node_modules: 169
+Total: 180
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
@@ -172,42 +84,8 @@ Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelt
 SnapshotManager File Statistics:
 Project files: 10
 Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+From node_modules: 169
+Total: 180
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
@@ -216,8 +94,8 @@ Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelt
 SnapshotManager File Statistics:
 Project files: 10
 Svelte files: 8
-From node_modules: 167
-Total: 178
+From node_modules: 169
+Total: 180
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
@@ -234,918 +112,6 @@ Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelt
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Initialize language server at  file:///home/malek/WebstormProjects/Cinder/
-Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
-Trying to load configs for /home/malek/WebstormProjects/Cinder
-Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 7
-From node_modules: 0
-Total: 10
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Initialize language server at  file:///home/malek/WebstormProjects/Cinder/
-Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
-Trying to load configs for /home/malek/WebstormProjects/Cinder
-Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 7
-From node_modules: 0
-Total: 10
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
-SnapshotManager File Statistics:
-Project files: 10
-Svelte files: 8
-From node_modules: 167
-Total: 178
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
@@ -1181,11 +147,1208 @@ Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelt
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 SnapshotManager File Statistics:
-Project files: 10
+Project files: 11
 Svelte files: 8
 From node_modules: 169
-Total: 180
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Initialize language server at  file:///home/malek/WebstormProjects/Cinder/
+Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
+Trying to load configs for /home/malek/WebstormProjects/Cinder
+Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 7
+From node_modules: 0
+Total: 11
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 169
+Total: 181
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+CompileError [ParseError]: Expected }
+    at error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17745:20)
+    at Parser$1.error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17821:10)
+    at Parser$1.eat (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17835:19)
+    at mustache (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17638:17)
+    at new Parser$1 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17780:22)
+    at parse$3 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17912:21)
+    at Object.compile (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:31880:18)
+    at SvelteDocument.getCompiledWith (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:61:23)
+    at async SvelteDocument.getCompiled (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:55:34)
+    at async getQuickfixActions (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:13:21) {
+  code: 'unexpected-token',
+  start: { line: 5, column: 10, character: 194 },
+  end: { line: 5, column: 10, character: 194 },
+  pos: 194,
+  filename: undefined,
+  frame: '3: export let storedUserID = writable("319377263493644361");\n' +
+    '4: exptrt let userAuthTnken = writable(new new Client({\n' +
+    "5:     secret: 'fnAEdmXHK8AARUSKHyvCLYJrw0AqlRDwuFHD9nHl',\n" +
+    '             ^\n' +
+    "6:     domain: 'db.us.fauna.com',\n" +
+    "7:     // NOTE: Use the correct domain for your database's Region Group."
+}
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+CompileError [ParseError]: Expected }
+    at error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17745:20)
+    at Parser$1.error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17821:10)
+    at Parser$1.eat (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17835:19)
+    at mustache (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17638:17)
+    at new Parser$1 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17780:22)
+    at parse$3 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17912:21)
+    at Object.compile (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:31880:18)
+    at SvelteDocument.getCompiledWith (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:61:23)
+    at async SvelteDocument.getCompiled (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:55:34)
+    at async getQuickfixActions (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:13:21) {
+  code: 'unexpected-token',
+  start: { line: 5, column: 10, character: 194 },
+  end: { line: 5, column: 10, character: 194 },
+  pos: 194,
+  filename: undefined,
+  frame: '3: export let storedUserID = writable("319377263493644361");\n' +
+    '4: exptrt let userAuthTnken = writable(new new Client({\n' +
+    "5:     secret: 'fnAEdmXHK8AARUSKHyvCLYJrw0AqlRDwuFHD9nHl',\n" +
+    '             ^\n' +
+    "6:     domain: 'db.us.fauna.com',\n" +
+    "7:     // NOTE: Use the correct domain for your database's Region Group."
+}
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+CompileError [ParseError]: Expected }
+    at error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17745:20)
+    at Parser$1.error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17821:10)
+    at Parser$1.eat (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17835:19)
+    at mustache (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17638:17)
+    at new Parser$1 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17780:22)
+    at parse$3 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17912:21)
+    at Object.compile (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:31880:18)
+    at SvelteDocument.getCompiledWith (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:61:23)
+    at async SvelteDocument.getCompiled (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:55:34)
+    at async getQuickfixActions (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:13:21) {
+  code: 'unexpected-token',
+  start: { line: 5, column: 10, character: 190 },
+  end: { line: 5, column: 10, character: 190 },
+  pos: 190,
+  filename: undefined,
+  frame: '3: export let storedUserID = writable("319377263493644361");\n' +
+    '4: exptrt let userAuthTnken = writable(new Client({\n' +
+    "5:     secret: 'fnAEdmXHK8AARUSKHyvCLYJrw0AqlRDwuFHD9nHl',\n" +
+    '             ^\n' +
+    "6:     domain: 'db.us.fauna.com',\n" +
+    "7:     // NOTE: Use the correct domain for your database's Region Group."
+}
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+CompileError [ParseError]: Expected }
+    at error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17745:20)
+    at Parser$1.error (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17821:10)
+    at Parser$1.eat (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17835:19)
+    at mustache (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17638:17)
+    at new Parser$1 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17780:22)
+    at parse$3 (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:17912:21)
+    at Object.compile (/home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler.js:31880:18)
+    at SvelteDocument.getCompiledWith (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:61:23)
+    at async SvelteDocument.getCompiled (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/SvelteDocument.js:55:34)
+    at async getQuickfixActions (/usr/lib/node_modules/svelte-language-server/dist/src/plugins/svelte/features/getCodeActions/getQuickfixes.js:13:21) {
+  code: 'unexpected-token',
+  start: { line: 5, column: 10, character: 190 },
+  end: { line: 5, column: 10, character: 190 },
+  pos: 190,
+  filename: undefined,
+  frame: '3: export let storedUserID = writable("319377263493644361");\n' +
+    '4: exptrt let userAuthTnken = writable(new Client({\n' +
+    "5:     secret: 'fnAEdmXHK8AARUSKHyvCLYJrw0AqlRDwuFHD9nHl',\n" +
+    '             ^\n' +
+    "6:     domain: 'db.us.fauna.com',\n" +
+    "7:     // NOTE: Use the correct domain for your database's Region Group."
+}
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 12
+Svelte files: 8
+From node_modules: 170
+Total: 183
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 12
+Svelte files: 8
+From node_modules: 170
+Total: 183
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 12
+Svelte files: 8
+From node_modules: 170
+Total: 183
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 12
+Svelte files: 8
+From node_modules: 170
+Total: 183
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 170
+Total: 182
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Initialize language server at  file:///home/malek/WebstormProjects/Cinder/
+Initialize new ts service at  /home/malek/WebstormProjects/Cinder/tsconfig.json
+Trying to load configs for /home/malek/WebstormProjects/Cinder
+Loaded config at  /home/malek/WebstormProjects/Cinder/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 7
+From node_modules: 1
+Total: 12
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 168
+Total: 179
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 11
+Svelte files: 8
+From node_modules: 168
+Total: 179
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
+Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler
 Using Svelte v3.46.2 from /home/malek/WebstormProjects/Cinder/node_modules/svelte/compiler

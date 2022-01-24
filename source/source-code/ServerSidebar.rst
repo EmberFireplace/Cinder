@@ -2,13 +2,12 @@
 ServerSidebar
 =============
 
-.. _ServerSidebar:
 
 --------
 HTML/CSS
 --------
 
-Implements SortableList_ so ServerIcon_\ s in a list so they can be dragged around.
+Implements :ref:`SortableList<SortableList>` so :ref:`ServerIcons<ServerIcon>` in a list so they can be dragged around.
 
 .. note::
 

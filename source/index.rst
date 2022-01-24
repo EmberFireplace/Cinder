@@ -12,9 +12,13 @@ Welcome to Cinder's documentation!
 
    standards/standards
    standards/fauna
+   Fauna/fauna-reference
+   source-code/Libraries
    source-code/ServerIcon
    source-code/ServerSidebar
    source-code/FaunaWrapper
+   source-code/UserAuth
+
 
 
 Indices and tables

@@ -11,7 +11,6 @@ Fauna Queries
 
 All the FaunaQueries are held in the ServerFaunaAPI class
 
-.. _paginateForServersFromUser:
 
 ##########################
 PaginateForServersFromUser
@@ -19,7 +18,6 @@ PaginateForServersFromUser
 
 This function takes in a :ref:`UserID<UserID>` and uses it to get all :ref:`Servers<Server>` that a :ref:`User<User>` is in.
 
-.. _paginateForChannelsFromServer:
 
 #############################
 PaginateForChannelsFromServer
