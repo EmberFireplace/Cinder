@@ -1,5 +1,5 @@
 import {Client, query} from "faunadb";
-import {storedUserClient} from "../store";
+import {storedUserClient, storedUserID} from "../store";
 
 
 const q = query;
@@ -66,6 +66,19 @@ export function runTempToLogin() {
                 scheme: 'https',
             });
         storedUserClient.set(actualClient);
+        actualClient.query(
+            q.Map(
+                q.Paginate(
+                    q.Match(q.Index("UsersByEmail"), "pocmalek@gmail.com")
+                ),
+                q.Lambda(
+                    "person",
+                    q.Get(q.Var("person"))
+                )
+            )
+        ).then((val) => {
+            console.log(JSON.stringify(val));
+        })
 
     })
 }

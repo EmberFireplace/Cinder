@@ -4,8 +4,10 @@
     import {writable} from "svelte/store";
     import {storedUserClient} from "../store.js";
     import {runTempToLogin} from "../Fauna/UserAuth.ts";
+    import {query} from "faunadb";
 
-    let userClient;
+    const q = query;
+    let userClient = null;
     storedUserClient.subscribe((val) => userClient = val);
     tick().then(() => {
         if(userClient == null) {
@@ -14,9 +16,13 @@
         }
         else {
             console.log("user client session in localStorage, not logging in.");
+            console.log(userClient);
+            console.log("trying to query")
+            console.log(userClient);
         }
     });
     console.log(userClient)
 </script>
+
 
 <Parent/>

@@ -1,16 +1,15 @@
 import {Client, query} from "faunadb";
+import {storedUserClient} from "./store";
 
 // let authorizationHeader:string = "Bearer fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN";
 // let endpoint:string = "https://graphql.us.fauna.com/graphql";
 const q = query;
 let adminKey = 'fnAEdmPomBAARWAMN2YuNAHXnAt24T-olkZbh3ze';
-let client = new Client({
-    secret: 'fnAEdmXHK8AARUSKHyvCLYJrw0AqlRDwuFHD9nHl',
-    domain: 'db.us.fauna.com',
-    // NOTE: Use the correct domain for your database's Region Group.
-    port: 443,
-    scheme: 'https',
-});
+let client;
+
+storedUserClient.subscribe(val => {
+    client = val} )
+storedUserClient.subscribe(() => console.log("managed to do it in typescript"));
 
 
 // /**
