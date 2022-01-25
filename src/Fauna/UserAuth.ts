@@ -14,6 +14,8 @@ let universalClient = new Client({
     port: 443,
     scheme: 'https',
 });
+let userClient = null;
+storedUserClient.subscribe((val) => userClient=val);
 export class UserAuth {
     static defaultMissingTextureCube:string = 'https://media.discordapp.net/attachments/934689367354638356/934689389420883978/output-onlinepngtools.png';
     static async loginUser(email:string, password:string) {
@@ -29,7 +31,8 @@ export class UserAuth {
     }
     static async logoutUser() {
         storedUserClient.set(null);
-        return (await actualClient.query(
+        storedUserID.set(null);
+        return (await userClient.query(
             q.Logout(true)
         ))
     }
@@ -77,7 +80,7 @@ export function runTempToLogin() {
                 )
             )
         ).then((val) => {
-            console.log(JSON.stringify(val));
+            storedUserID.set(val['data'][0]['ref']['id'])
         })
 
     })
