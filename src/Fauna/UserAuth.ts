@@ -44,7 +44,8 @@ export class UserAuth {
                 storedUserID.set(val['data'][0]['ref']['id'])
             })
 
-        }).catch( (error) => console.log("user login failed with error" + error))
+        }).catch( (errorVal) => {console.log("user login failed with error" + errorVal);
+        alert('incorrect email or password')})
     }
     static async loginUser(email:string, password:string) {
         console.log("logging in user : " + email);

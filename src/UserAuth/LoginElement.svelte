@@ -1,9 +1,7 @@
 <script>
     import {UserAuth} from "../Fauna/UserAuth.ts";
-
     let email;
     let password;
-
 </script>
 <p>Email</p>
 <input bind:value={email}>
