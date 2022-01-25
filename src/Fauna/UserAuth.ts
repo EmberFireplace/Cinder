@@ -18,6 +18,34 @@ let userClient = null;
 storedUserClient.subscribe((val) => userClient=val);
 export class UserAuth {
     static defaultMissingTextureCube:string = 'https://media.discordapp.net/attachments/934689367354638356/934689389420883978/output-onlinepngtools.png';
+    static async runLoginUser(email:string, password:string) {
+        UserAuth.loginUser(email, password).then((response) => {
+            console.log("login response is : " + JSON.stringify(response))
+            actualClient =
+                new Client({
+                    secret: response['secret'],
+                    domain: 'db.us.fauna.com',
+                    // NOTE: Use the correct domain for your database's Region Group.
+                    port: 443,
+                    scheme: 'https',
+                });
+            storedUserClient.set(actualClient);
+            actualClient.query(
+                q.Map(
+                    q.Paginate(
+                        q.Match(q.Index("UsersByEmail"), "pocmalek@gmail.com")
+                    ),
+                    q.Lambda(
+                        "person",
+                        q.Get(q.Var("person"))
+                    )
+                )
+            ).then((val) => {
+                storedUserID.set(val['data'][0]['ref']['id'])
+            })
+
+        }).catch( (error) => console.log("user login failed with error" + error))
+    }
     static async loginUser(email:string, password:string) {
         console.log("logging in user : " + email);
         return (await universalClient.query(
@@ -59,30 +87,30 @@ export class UserAuth {
     }
 }
 let actualClient = null;
-export function runTempToLogin() {
-    UserAuth.loginUser("pocmalek@gmail.com", "password").then((response) => {
-        actualClient =
-            new Client({
-                secret: response['secret'],
-                domain: 'db.us.fauna.com',
-                // NOTE: Use the correct domain for your database's Region Group.
-                port: 443,
-                scheme: 'https',
-            });
-        storedUserClient.set(actualClient);
-        actualClient.query(
-            q.Map(
-                q.Paginate(
-                    q.Match(q.Index("UsersByEmail"), "pocmalek@gmail.com")
-                ),
-                q.Lambda(
-                    "person",
-                    q.Get(q.Var("person"))
-                )
-            )
-        ).then((val) => {
-            storedUserID.set(val['data'][0]['ref']['id'])
-        })
-
-    })
-}
+// export function runTempToLogin() {
+//     UserAuth.loginUser("pocmalek@gmail.com", "password").then((response) => {
+//         actualClient =
+//             new Client({
+//                 secret: response['secret'],
+//                 domain: 'db.us.fauna.com',
+//                 // NOTE: Use the correct domain for your database's Region Group.
+//                 port: 443,
+//                 scheme: 'https',
+//             });
+//         storedUserClient.set(actualClient);
+//         actualClient.query(
+//             q.Map(
+//                 q.Paginate(
+//                     q.Match(q.Index("UsersByEmail"), "pocmalek@gmail.com")
+//                 ),
+//                 q.Lambda(
+//                     "person",
+//                     q.Get(q.Var("person"))
+//                 )
+//             )
+//         ).then((val) => {
+//             storedUserID.set(val['data'][0]['ref']['id'])
+//         })
+//
+//     })
+// }

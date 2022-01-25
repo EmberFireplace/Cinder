@@ -5,7 +5,6 @@ import {storedUserID} from "../store.js";
 import ChannelSidebar from "./Channel/ChannelSidebar.svelte";
 import {createEventDispatcher, onMount} from "svelte";
 import MessageList from "./Message/MessageList.svelte";
-import {runTempToLogin, UserAuth} from "../Fauna/UserAuth.ts";
 import {writable} from "svelte/store";
 
 /**

@@ -3,7 +3,6 @@
     import {onMount, tick} from "svelte";
     import {writable} from "svelte/store";
     import {storedUserClient} from "../store.js";
-    import {runTempToLogin} from "../Fauna/UserAuth.ts";
     import {query} from "faunadb";
     import LogoutElement from "../UserAuth/LogoutElement.svelte";
     import {browser} from "$app/env";
