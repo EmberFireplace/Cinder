@@ -10,6 +10,7 @@ function setItemForLocalStorage(itemName, value) {
     if(!browser) {
         return;
     }
+    console.log("setting " + itemName + " to " + value)
     localStorage.setItem(itemName, value);
 }
 function getItemForLocalStorage(itemName) {

@@ -7,6 +7,6 @@
     }
 </script>
 
-<button>
+<button on:click={logoutUser}>
     Logout
 </button>

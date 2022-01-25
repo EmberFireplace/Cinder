@@ -30,9 +30,10 @@ export class UserAuth {
         ))
     }
     static async logoutUser() {
+        let logoutClient = userClient;
         storedUserClient.set(null);
         storedUserID.set(null);
-        return (await userClient.query(
+        return (await logoutClient.query(
             q.Logout(true)
         ))
     }

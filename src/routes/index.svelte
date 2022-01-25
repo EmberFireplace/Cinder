@@ -6,11 +6,11 @@
     import {runTempToLogin} from "../Fauna/UserAuth.ts";
     import {query} from "faunadb";
     import LogoutElement from "../UserAuth/LogoutElement.svelte";
+    import {browser} from "$app/env";
 
     const q = query;
     let userClient = null;
     storedUserClient.subscribe((val) => userClient = val);
-    //TODO::NEED TO JUST DO #IF BROWESER THING https://stackoverflow.com/questions/56636764/svelte-sapper-js-how-to-initialize-store-with-localstorage-data
 
     tick().then(() => {
         if(userClient === false) {
@@ -18,7 +18,8 @@
             return;
         }
         console.log("user client is : " + userClient);
-        if(userClient == null) {
+        console.log(typeof(userClient));
+        if(userClient == null || userClient === "null") {
         console.log("user client is null, logging in");
         runTempToLogin();
         }
@@ -27,7 +28,7 @@
         }
     });
 </script>
-{#if process.browser}
+{#if browser}
 <LogoutElement/>
 <Parent/>
 {/if}
