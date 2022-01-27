@@ -8,6 +8,7 @@
     import {browser} from "$app/env";
     import LoginElement from "../UserAuth/LoginElement.svelte";
     import CreateNewUserElement from "../UserAuth/CreateNewUserElement.svelte";
+    import CreateServerElement from "../CreateServer/CreateServerElement.svelte";
 
     const q = query;
     let userClient = null;
@@ -36,6 +37,7 @@ We do this browser stuff to disable serverside rendering, cause we can't store c
 {#if browser}
     {#if !userNotLoggedIn}
     <LogoutElement/>
+    <CreateServerElement/>
     <Parent/>
     {:else}
     <LoginElement/>
