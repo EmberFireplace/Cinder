@@ -1,5 +1,6 @@
 import {Client, query} from "faunadb";
 import {storedUserID, storedUserSecret} from "../store";
+import User from "./User";
 
 
 const q = query;
@@ -33,13 +34,14 @@ export default class Server {
         ));
         let newlyCreatedServerID = response['ref']['id'];
         //Creates the ServerUsers document, aka adds the user to the server they just made.
+        let numberOfServers:number = await User.getNumberOfServersUserIsIn();
         await (userClient.query(
             q.Create(
                 q.Collection("ServerUsers"), {
                     data : {
                         serverID: q.Ref(q.Collection("Servers"), newlyCreatedServerID),
                         userID: q.Identity(),
-                        userPreferenceNumber: 0
+                        userPreferenceNumber: numberOfServers
                     }
                 }
             )

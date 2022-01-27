@@ -6,6 +6,7 @@ import ChannelSidebar from "./Channel/ChannelSidebar.svelte";
 import {createEventDispatcher, onMount} from "svelte";
 import MessageList from "./Message/MessageList.svelte";
 import {writable} from "svelte/store";
+import User from "../Fauna/User.ts";
 
 /**
  * This code is where we subscribe to all the values we have saved in our store.js file.
@@ -22,7 +23,7 @@ import {writable} from "svelte/store";
     let callWhenChannelElementClick;
     //These are the props we call when we just wanna normally call functions from child components. They are prefixed with a '[UNDETERMINED]'
 
-
+    User.getNumberOfServersUserIsIn();
 
 
 
