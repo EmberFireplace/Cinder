@@ -24,6 +24,17 @@ export default class Server {
             )
         ));
         let newlyCreatedServerID = response['ref']['id'];
+        await (userClient.query(
+            q.Create(
+                q.Collection("ServerUsers"), {
+                    data : {
+                        serverID: q.Ref(q.Collection("Servers"), newlyCreatedServerID),
+                        userID: q.Identity(),
+                        userPreferenceNumber: 0
+                    }
+                }
+            )
+        ))
         console.log("newly created server id is : " + newlyCreatedServerID);
         console.log("response is : " + JSON.stringify(response));
     }
