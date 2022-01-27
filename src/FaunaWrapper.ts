@@ -1,15 +1,20 @@
 import {Client, query} from "faunadb";
-import {storedUserClient} from "./store";
+import {storedUserSecret} from "./store";
 
 // let authorizationHeader:string = "Bearer fnAEbqCmntAAR9gdue3MMJ7lQnqRUmB1mSq52jaN";
 // let endpoint:string = "https://graphql.us.fauna.com/graphql";
 const q = query;
 let adminKey = 'fnAEdmPomBAARWAMN2YuNAHXnAt24T-olkZbh3ze';
-let client;
+let userClient;
 
-storedUserClient.subscribe(val => {
-    client = val} )
-storedUserClient.subscribe(() => console.log("managed to do it in typescript"));
+storedUserSecret.subscribe((val) => {
+    userClient = new Client({
+        secret: val,
+        domain: 'db.us.fauna.com',
+        port: 443,
+        scheme: 'https',
+    })
+})
 
 
 // /**
@@ -139,7 +144,7 @@ export class ServerFaunaAPI {
     }
     static async paginateForMessagesFromChannelInReverse(channelID:string, cursor:any, sizeOfMsg:number) {
         console.log("paginatingForMessagesFromChannelInReverse");
-        return (await client.query(
+        return (await userClient.query(
             q.Map(
                 q.Paginate(
                     q.Match(
@@ -154,7 +159,7 @@ export class ServerFaunaAPI {
     }
     static async paginateForServersFromUser(userID:string) {
         console.log("paginatingForServersFromUser");
-        return (await client.query(
+        return (await userClient.query(
                 q.Map(
                     q.Paginate(
                         q.Match(
@@ -169,7 +174,7 @@ export class ServerFaunaAPI {
     }
     static async paginateForChannelsFromServer(serverID:string) {
         console.log("paginatingFroChannelsFromServer");
-        return (await client.query(
+        return (await userClient.query(
                 q.Map(
                     q.Paginate(
                         q.Match(

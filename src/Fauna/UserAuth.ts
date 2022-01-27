@@ -1,5 +1,5 @@
 import {Client, query} from "faunadb";
-import {storedUserClient, storedUserID} from "../store";
+import {storedUserID, storedUserSecret} from "../store";
 
 
 const q = query;
@@ -15,7 +15,14 @@ let universalClient = new Client({
     scheme: 'https',
 });
 let userClient = null;
-storedUserClient.subscribe((val) => userClient=val);
+storedUserSecret.subscribe((val) => {
+    userClient = new Client({
+        secret: val,
+        domain: 'db.us.fauna.com',
+        port: 443,
+        scheme: 'https',
+    })
+})
 export class UserAuth {
     static defaultMissingTextureCube:string = 'https://media.discordapp.net/attachments/934689367354638356/934689389420883978/output-onlinepngtools.png';
     static async runLoginUser(email:string, password:string) {
@@ -29,19 +36,12 @@ export class UserAuth {
                     port: 443,
                     scheme: 'https',
                 });
-            storedUserClient.set(actualClient);
+            storedUserSecret.set(response['secret']);
             actualClient.query(
-                q.Map(
-                    q.Paginate(
-                        q.Match(q.Index("UsersByEmail"), "pocmalek@gmail.com")
-                    ),
-                    q.Lambda(
-                        "person",
-                        q.Get(q.Var("person"))
-                    )
-                )
+                q.Identity()
             ).then((val) => {
-                storedUserID.set(val['data'][0]['ref']['id'])
+                console.log(JSON.stringify(val));
+                storedUserID.set(val['id'])
             })
 
         }).catch( (errorVal) => {console.log("user login failed with error" + errorVal);
@@ -60,7 +60,7 @@ export class UserAuth {
     }
     static async logoutUser() {
         let logoutClient = userClient;
-        storedUserClient.set(null);
+        storedUserSecret.set(null);
         storedUserID.set(null);
         return (await logoutClient.query(
             q.Logout(true)

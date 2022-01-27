@@ -2,10 +2,11 @@ import { writable } from 'svelte/store';
 import {browser} from '$app/env'
 import {Client} from "faunadb";
 export let storedUserID = writable(getItemForLocalStorage("userID"));
-export const storedUserClient = writable(getItemForLocalStorage("userClient"));
-storedUserClient.subscribe((val) =>setItemForLocalStorage("userClient", val));
-storedUserID.subscribe((val) => setItemForLocalStorage("userID", val));
+export let storedUserSecret = writable(getItemForLocalStorage("userSecret"));
 
+
+storedUserID.subscribe((val) => setItemForLocalStorage("userID", val));
+storedUserSecret.subscribe((val) => setItemForLocalStorage("userSecret", val));
 
 function setItemForLocalStorage(itemName, value) {
     if(!browser) {
