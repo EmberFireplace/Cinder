@@ -23,15 +23,14 @@ import User from "../Fauna/User.ts";
     let callWhenChannelElementClick;
     //These are the props we call when we just wanna normally call functions from child components. They are prefixed with a '[UNDETERMINED]'
 
-    User.getNumberOfServersUserIsIn();
 
 
 
 
 </script>
 <div>
-<!--    <ServerSidebar-->
-<!--                on:serverIconClick={callWhenServerIconClick}/>-->
+    <ServerSidebar
+                on:serverIconClick={callWhenServerIconClick}/>
 <!--    <ChannelSidebar-->
 <!--            bind:onServerIconClick={callWhenServerIconClick}-->
 <!--                on:channelElementClick={callWhenChannelElementClick}/>-->

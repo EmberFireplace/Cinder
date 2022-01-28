@@ -139,6 +139,7 @@ export class ServerObject {
 export class UserFunctions {
 
 }
+//TODO::all of this is depricated for now.
 export class ServerFaunaAPI {
     constructor() {
     }
@@ -163,7 +164,7 @@ export class ServerFaunaAPI {
                 q.Map(
                     q.Paginate(
                         q.Match(
-                            q.Index("server_users_by_user"),
+                            q.Index("ServersByUserSorted"),
                             q.Ref(q.Collection("User"), userID)
                         )
                     ),

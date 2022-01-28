@@ -49,4 +49,19 @@ export default class Server {
         console.log("newly created server id is : " + newlyCreatedServerID);
         console.log("response is : " + JSON.stringify(response));
     }
+    static async paginateForServers() {
+        console.log("paginating for servers");
+        return (await userClient.query(
+                q.Map(
+                    q.Paginate(
+                        q.Match(
+                            q.Index("ServersByUserSorted"),
+                            q.Identity()
+                        )
+                    ),
+                    q.Lambda("X", q.Get(q.Select(1, q.Var("X"))))
+                )
+            )
+        )
+    }
 }

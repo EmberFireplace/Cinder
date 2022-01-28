@@ -1,15 +1,18 @@
 <script>
-    import {ServerObject} from "../../FaunaWrapper.ts";
     import { createEventDispatcher } from 'svelte';
+    import SharedConstants from "../../Fauna/SharedConstants.ts";
 
     /**
      * This sets up the image rendering of the server icons
      */
     export let serverObject;
     let serverURL = 'url('+"https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif"+')';
-    $: if(serverObject !== undefined && serverObject !== null) {
+    $: if(serverObject !== undefined && serverObject !== null && serverObject.serverIconURL !== "null") {
         serverURL = 'url('+serverObject.serverIconURL+')';
+    } else if(serverObject !== undefined && serverObject !== null && serverObject.serverIconURL === "null") {
+        serverURL = 'url('+SharedConstants.defaultMissingTextureCube+')';
     }
+
 
     /**
      * This sends events everytime the server icon is clicked.
