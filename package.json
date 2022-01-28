@@ -31,6 +31,7 @@
   "dependencies": {
     "body-scroll-lock": "^4.0.0-beta.0",
     "faunadb": "^4.4.1",
+    "random-image-unsplash": "^1.0.6",
     "svelte-sortable-list": "^1.1.0"
   }
 }

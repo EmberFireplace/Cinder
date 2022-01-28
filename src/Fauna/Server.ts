@@ -1,7 +1,7 @@
 import {Client, query} from "faunadb";
 import {storedUserID, storedUserSecret} from "../store";
 import User from "./User";
-
+import {FetchImage} from 'random-image-unsplash'
 
 const q = query;
 let userClient;
@@ -19,6 +19,11 @@ export default class Server {
     static async createServer(serverName:string, serverIconURL:string) {
         console.log("running createServer Function");
         console.log("user id is : " + userID);
+        if(serverIconURL == null || serverIconURL === "null") {
+            console.log("server icon url is null");
+            serverIconURL = (await FetchImage({type:'user', width: 400, height: 400}));
+        }
+        console.log("server icon url is : " + serverIconURL);
         let serverOwnerVar = `Ref(Collection("Users"), ${userID})`;
         //Creates the server document.
         let response = await (userClient.query(
