@@ -13,7 +13,9 @@ Welcome to Cinder's documentation!
    standards/standards
    standards/fauna
    standards/permissions
-   Fauna/fauna-reference
+   Fauna/fauna-reference-reference
+   Fauna/fauna-collections
+   Fauna/fauna-indexes
    source-code/Libraries
    source-code/ServerIcon
    source-code/ServerSidebar
