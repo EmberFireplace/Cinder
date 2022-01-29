@@ -20,7 +20,22 @@
         console.log("Servers list is now " + JSON.stringify(list));
     }))
 
-    const sortList = ev => {list = ev.detail};
+    const sortList = ev =>
+    {
+        // let newList = ev.detail;
+        // let oldList = list;
+        // for(let i = 0; i < oldList.length; i++) {
+        //     if(newList[i].serverID !== oldList[i].serverID) {
+        //         console.log("is diff at num : " + i + ", and name is : old "
+        //             + oldList[i].serverName + ", new : " + newList[i].serverName);
+        //     }
+        // }
+        // console.log("length is " + newList.length);
+
+        list = ev.detail
+
+
+    };
 </script>
 <!--
 A list of all the servers listed with their icon, and you can click on them to activate their channels.

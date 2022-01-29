@@ -25,6 +25,7 @@
     }
 
 </script>
+    <p>{serverObject.serverName}</p>
     <div on:click={() => sendServerIconClickEvent()} class="circular_image" style="--image-url: {serverURL}"></div>
 <style>
     .circular_image {
