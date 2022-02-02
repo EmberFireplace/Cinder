@@ -126,3 +126,31 @@ TODO:// Finish this.
     channelOrderingPreference: Long
     channelPermissions: Ref(Collection("Permissions"), "[FaunaID]")
 
+
+-----
+Roles
+-----
+
+##########
+Roles Info
+##########
+
+Roles are a collection that should be per Server accessed. They contain a reference
+to the corrosponding :ref:`Permission<Permissions>` document which clarifies the
+permissions that users with that role have. Roles are cascading, a User can have
+multiple roles in a server, with the most wide access permissions have preccedence.
+Roles can be accessed through the :ref:`RolesByServer Index<RolesByServer>`\ .
+
+###############
+Roles Reference
+###############
+
+.. parsed-literal::
+
+    serverID: Ref(Collection("Servers"), "[FaunaID]")
+    permissionID: Ref(Collection("Permissions"), "[FaunaID]")
+    roleName: String
+    roleColor: String
+    roleOrderingPreference: Long
+
+
